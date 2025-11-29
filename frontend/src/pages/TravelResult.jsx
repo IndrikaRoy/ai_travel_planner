@@ -65,14 +65,26 @@ export default function TravelResult() {
 
           {/* Restaurants */}
           <div className="p-4 border rounded-lg">
-            <h3 className="font-semibold mb-2">Restaurants</h3>
-            {travelPlan.restaurants.map(r => (
-              <div key={r.name} className="mb-2">
-                <div className="font-medium text-blue-600">{r.name}</div>
-                <div className="text-sm text-gray-600">{r.cuisine} • {r.priceRange}</div>
+                <h3 className="font-semibold mb-2">Restaurants</h3>
+                <ul className="space-y-2">
+                  {travelPlan.restaurants.map(a => (
+                    <li key={a.name}>
+                      <a
+                        href={a.link}
+                        className="font-medium text-blue-600 hover:underline"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {a.name}
+                      </a>
+
+                      <div className="text-sm text-gray-600">{a.priceRange}</div>
+                      <div className="text-sm text-gray-600">{a.cuisine}</div>
+                      <div className="text-sm text-gray-600">{a.specialty}</div>
+                    </li>
+                  ))}
+                </ul>
               </div>
-            ))}
-          </div>
 
         </div>
 
