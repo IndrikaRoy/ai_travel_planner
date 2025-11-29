@@ -147,8 +147,13 @@ npm run dev
 
 ## Screenshots
 
-### App Interface
+### App Interface - Planner
 ![App Screenshot](images/webapp.png)
+
+### App Interface - Result
+![App Screenshot](images/result1.png)
+![App Screenshot](images/result2.png)
+![App Screenshot](images/result3.png)
 
 ### Agent Flow Diagram
 ![Agent Flow](images/agentflow.png)
