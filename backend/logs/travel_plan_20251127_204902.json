@@ -1,0 +1,343 @@
+{
+    "destination": "Delhi",
+    "duration": 4,
+    "overview": {
+        "totalCost": "5000",
+        "travelers": 3,
+        "startDate": "2025-11-28",
+        "endDate": "2025-12-01"
+    },
+    "transportation": {
+        "flights": {
+            "outbound": {
+                "date": "2025-11-28",
+                "route": "Origin (e.g., Major International Hub) to Delhi (DEL)",
+                "estimatedPricePerPersonUSD": "850-1200",
+                "notes": "Prices are estimates for economy class and can vary significantly based on your specific origin city, airline, layovers, and how far in advance you book. Consider airlines like Air India, Emirates, Qatar Airways, Lufthansa, British Airways, or codeshare partners for international routes."
+            },
+            "return": {
+                "date": "2025-12-01",
+                "route": "Delhi (DEL) to Origin (e.g., Major International Hub)",
+                "estimatedPricePerPersonUSD": "850-1200",
+                "notes": "For best rates, it is advisable to book international flights 9-12 months in advance. Total estimated flight cost for 3 travelers would be between $2550 - $3600 USD."
+            }
+        },
+        "carRental": {
+            "type": "Mid-size Sedan or Compact SUV (e.g., Toyota Innova, Maruti Suzuki Ertiga) for comfortable seating for 3 with luggage.",
+            "dailyRateUSD": "40-70",
+            "recommendedCompanies": [
+                "Hertz India",
+                "Avis India",
+                "Europcar India",
+                "Zoomcar (local self-drive option)"
+            ],
+            "notes": "Driving in Delhi can be chaotic and challenging for those unfamiliar with local traffic. Consider hiring a car with a driver, which is often a cost-effective and stress-free alternative. Rates do not include fuel, insurance, or potential driver costs if applicable."
+        },
+        "localTransportation": {
+            "publicTransit": [
+                {
+                    "name": "Delhi Metro",
+                    "description": "An extensive, modern, air-conditioned, and efficient subway system connecting most parts of the city, including Indira Gandhi International Airport (DEL). Highly recommended for tourists due to its reliability and affordability.",
+                    "costInfo": "Very affordable, typically $0.20 - $1.00 USD per ride.",
+                    "tips": "Purchase a 'Smart Card' for easy travel and discounted fares. Avoid peak hours if possible for a more comfortable experience."
+                },
+                {
+                    "name": "DTC Buses",
+                    "description": "Delhi Transport Corporation operates a vast network of public buses. While very affordable, they can be crowded and navigating routes can be challenging for non-locals.",
+                    "costInfo": "Extremely affordable, typically $0.05 - $0.50 USD per ride."
+                }
+            ],
+            "rideSharing": [
+                {
+                    "name": "Uber",
+                    "description": "Widely available, reliable, and convenient. Offers various options including sedans and SUVs.",
+                    "costInfo": "Generally inexpensive, often cheaper than traditional taxis.",
+                    "tips": "Ensure you confirm the driver and vehicle details via the app before boarding. Cashless payments are available."
+                },
+                {
+                    "name": "Ola",
+                    "description": "India's homegrown ride-sharing service, very popular and operates similarly to Uber.",
+                    "costInfo": "Competitive pricing with Uber.",
+                    "tips": "Also offers auto-rickshaw bookings through the app for shorter distances and congested areas."
+                }
+            ],
+            "otherOptions": [
+                {
+                    "name": "Auto-Rickshaws (Tuk-Tuks)",
+                    "description": "Common for shorter distances. Offers a quintessential Delhi experience.",
+                    "costInfo": "Variable; always negotiate the fare before starting the ride, or insist on the meter (though it's rarely used by tourists).",
+                    "tips": "Bargaining is expected. Agree on a price beforehand to avoid misunderstandings."
+                },
+                {
+                    "name": "Cycle-Rickshaws",
+                    "description": "Ideal for very short distances within crowded market areas like Chandni Chowk.",
+                    "costInfo": "Very cheap, negotiate fare.",
+                    "tips": "Best for short, local trips where motorized vehicles might struggle to pass."
+                }
+            ]
+        }
+    },
+    "accommodation": {
+        "hotel": "The Imperial, New Delhi",
+        "location": "Janpath, Connaught Place",
+        "pricePerNight": 1450,
+        "amenities": [
+            "Award-winning restaurants & bars",
+            "Opulent spa and wellness center",
+            "Outdoor swimming pool",
+            "Fitness center",
+            "Art gallery & heritage walk within the hotel",
+            "Luxury boutiques within the hotel",
+            "Concierge services for bespoke tours and excursions",
+            "High-speed Wi-Fi",
+            "24-hour room service",
+            "Airport transfers"
+        ],
+        "description": "The Imperial is a legendary heritage hotel that epitomizes colonial grandeur and modern luxury in the heart of Delhi. Its prime location in Janpath, adjacent to Connaught Place, makes it an ideal base for experiencing all aspects of the city. Guests can easily access historical landmarks, vibrant markets for shopping, diverse culinary experiences, and exciting nightlife. The hotel itself is a destination, boasting a magnificent art collection, multiple award-winning restaurants including The Spice Route and 1911 Restaurant, and an opulent spa for ultimate relaxation. The expert concierge can arrange tailored experiences, from historical city tours to nature excursions, catering to every interest from adventure and culture to food and history."
+    },
+    "attractions": [
+        {
+            "name": "Red Fort",
+            "type": "Landmark, Fort, History",
+            "duration": "3 hours",
+            "cost": "INR 500 (Foreigners), INR 50 (Indians)",
+            "bestTime": "Morning to avoid crowds and heat."
+        },
+        {
+            "name": "Qutub Minar",
+            "type": "UNESCO Site, History, Architecture",
+            "duration": "2 hours",
+            "cost": "INR 600 (Foreigners), INR 40 (Indians)",
+            "bestTime": "Morning or late afternoon for good light."
+        },
+        {
+            "name": "Humayun's Tomb & Sunder Nursery",
+            "type": "UNESCO Site, History, Park, Nature, Relaxation",
+            "duration": "3-4 hours (for both)",
+            "cost": "Humayun's Tomb: INR 600 (Foreigners), INR 40 (Indians). Sunder Nursery: INR 100 (Foreigners), INR 50 (Indians).",
+            "bestTime": "Morning or late afternoon."
+        },
+        {
+            "name": "Chandni Chowk",
+            "type": "Market, Food, Culture, Shopping",
+            "duration": "3-4 hours",
+            "cost": "Varies (Food & Shopping costs)",
+            "bestTime": "Late afternoon to evening for vibrant atmosphere."
+        },
+        {
+            "name": "India Gate & Rajpath",
+            "type": "Landmark, War Memorial, Relaxation",
+            "duration": "1-2 hours",
+            "cost": "Free",
+            "bestTime": "Evening for a stroll and lighting."
+        },
+        {
+            "name": "Lotus Temple",
+            "type": "Architectural Landmark, Place of Worship, Relaxation",
+            "duration": "1.5 hours",
+            "cost": "Free",
+            "bestTime": "Morning or late afternoon to avoid direct sun."
+        },
+        {
+            "name": "Hauz Khas Village",
+            "type": "Historical Site, Urban Village, Nightlife, Food, Relaxation",
+            "duration": "3-5 hours (daytime exploration), longer for nightlife",
+            "cost": "Free (entry to village), specific cafes/bars cost money",
+            "bestTime": "Late afternoon into evening for sunset views and nightlife."
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Karim's",
+            "cuisine": "Mughlai, North Indian",
+            "specialty": "Traditional Mughlai recipes from the royal kitchens, known for rich curries and kebabs.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Mutton Stew",
+                "Chicken Jahangiri",
+                "Seekh Kebab",
+                "Nihari"
+            ]
+        },
+        {
+            "name": "Indian Accent",
+            "cuisine": "Modern Indian",
+            "specialty": "Innovative Indian cuisine with global techniques and ingredients, a fine dining experience.",
+            "priceRange": "$$$",
+            "mustTry": [
+                "Blue cheese naan",
+                "Foie gras galouti",
+                "Panko-crusted river sole",
+                "Daulat ki Chaat (dessert)"
+            ]
+        },
+        {
+            "name": "Bukhara (ITC Maurya)",
+            "cuisine": "North Indian, Frontier Cuisine",
+            "specialty": "Iconic tandoori cooking, known for its rustic ambiance and signature dishes cooked in clay ovens.",
+            "priceRange": "$$$",
+            "mustTry": [
+                "Dal Bukhara",
+                "Sikandari Raan",
+                "Murgh Malai Kebab",
+                "Bharwan Tangri"
+            ]
+        },
+        {
+            "name": "Saravana Bhavan",
+            "cuisine": "South Indian (Vegetarian)",
+            "specialty": "Authentic and consistent South Indian vegetarian dishes, a local favorite for breakfast, lunch, and dinner.",
+            "priceRange": "$",
+            "mustTry": [
+                "Ghee Roast Dosa",
+                "Idli-Vada Sambar",
+                "Filter Coffee",
+                "Thali"
+            ]
+        },
+        {
+            "name": "Rajinder Da Dhaba",
+            "cuisine": "North Indian, Dhaba Style, Non-Vegetarian",
+            "specialty": "Lively street-side eatery famous for its succulent tandoori kebabs and rich curries, especially at night.",
+            "priceRange": "$",
+            "mustTry": [
+                "Galouti Kebab",
+                "Tandoori Fish",
+                "Mutton Burra",
+                "Chicken Kali Mirch"
+            ]
+        },
+        {
+            "name": "SodaBottleOpenerWala",
+            "cuisine": "Parsi, Irani Cafe",
+            "specialty": "Quirky retro ambiance serving authentic Parsi and Irani cafe classics.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Berry Pulao",
+                "Salli Boti",
+                "Patra Ni Machhi",
+                "Parsi Mawa Cake",
+                "Raspberry Soda"
+            ]
+        }
+    ],
+    "activities": [
+        {
+            "day": 1,
+            "morning": {
+                "activity": "Start your Delhi exploration with a deep dive into history at the Red Fort.",
+                "location": "Red Fort",
+                "details": "Arrive early to avoid crowds and the heat. Explore the Diwan-i-Aam, Diwan-i-Khas, Moti Masjid, and other palaces within the complex. Allow 3 hours for a comprehensive visit.",
+                "timing": "9:00 AM - 12:00 PM"
+            },
+            "afternoon": {
+                "activity": "Experience modern Delhi's iconic war memorial and a symbolic drive.",
+                "location": "India Gate & Rajpath",
+                "details": "After lunch (a quick bite near Red Fort or on the way), head to India Gate. Take a stroll around the monument and drive along Rajpath (Kartavya Path) to witness the grand architecture of the Rashtrapati Bhavan (President's House) from a distance. Allow 1.5-2 hours.",
+                "timing": "2:00 PM - 3:30 PM"
+            },
+            "evening": {
+                "activity": "Immerse yourself in the bustling heart of Old Delhi.",
+                "location": "Chandni Chowk",
+                "details": "Journey into the narrow lanes of Chandni Chowk. Explore the various bazaars (spices, textiles, jewelry), try local street food delicacies like parathas, jalebis, and chaat. Soak in the vibrant atmosphere. Allow 3-4 hours for exploration and food.",
+                "dinner": {
+                    "restaurant": "Karim's",
+                    "cuisine": "Mughlai, North Indian",
+                    "mustTry": [
+                        "Mutton Stew",
+                        "Chicken Jahangiri",
+                        "Seekh Kebab",
+                        "Nihari"
+                    ],
+                    "note": "A historic eatery famous for its traditional Mughlai dishes, located near Jama Masjid in Old Delhi, making it perfect after Chandni Chowk."
+                },
+                "timing": "4:00 PM onwards"
+            }
+        },
+        {
+            "day": 2,
+            "morning": {
+                "activity": "Explore two magnificent UNESCO World Heritage Sites showcasing Mughal grandeur and ecological restoration.",
+                "location": "Humayun's Tomb & Sunder Nursery",
+                "details": "Begin at Humayun's Tomb, often considered a precursor to the Taj Mahal. Marvel at its intricate Mughal architecture. Afterwards, walk over to the adjacent Sunder Nursery, a beautifully restored heritage park with several smaller tombs, water features, and diverse flora. Allow 3.5-4 hours for both.",
+                "timing": "9:00 AM - 1:00 PM"
+            },
+            "afternoon": {
+                "activity": "Visit a unique architectural marvel known for its serene ambiance.",
+                "location": "Lotus Temple",
+                "details": "After lunch (consider a local eatery in South Delhi), visit the Bah\u00e1\u02bc\u00ed House of Worship, famously known as the Lotus Temple due to its distinctive lotus-flower shape. Enjoy the peaceful surroundings and unique design. Allow 1.5 hours.",
+                "timing": "2:30 PM - 4:00 PM"
+            },
+            "evening": {
+                "activity": "Discover a blend of ancient ruins and contemporary urban charm.",
+                "location": "Hauz Khas Village",
+                "details": "Head to Hauz Khas Village. Explore the historical Hauz Khas Complex with its Feroz Shah's Tomb, a mosque, and a madrasa overlooking a tranquil deer park. Enjoy the sunset views. Afterwards, browse the trendy boutiques and cafes of the urban village. Allow 3 hours for exploration.",
+                "dinner": {
+                    "restaurant": "Rajinder Da Dhaba",
+                    "cuisine": "North Indian, Dhaba Style, Non-Vegetarian",
+                    "mustTry": [
+                        "Galouti Kebab",
+                        "Tandoori Fish",
+                        "Mutton Burra",
+                        "Chicken Kali Mirch"
+                    ],
+                    "note": "A popular, lively street-side eatery known for its succulent kebabs and rich curries, perfect for a casual yet delicious dinner after exploring Hauz Khas."
+                },
+                "timing": "4:30 PM onwards"
+            }
+        },
+        {
+            "day": 3,
+            "morning": {
+                "activity": "Uncover the impressive minaret and surrounding architectural ruins.",
+                "location": "Qutub Minar",
+                "details": "Start your day at Qutub Minar, another UNESCO World Heritage Site. Explore the towering minaret, the Alai Darwaza gate, the Quwwat-ul-Islam Mosque, and the famous Iron Pillar. Allow 2 hours to soak in the history and architecture.",
+                "timing": "9:30 AM - 11:30 AM"
+            },
+            "afternoon": {
+                "activity": "Enjoy a authentic South Indian vegetarian meal and some leisure time.",
+                "location": "Leisure / Shopping / Saravana Bhavan",
+                "details": "After your historical morning, indulge in a delicious and authentic South Indian vegetarian lunch. Post-lunch, you can opt for some last-minute souvenir shopping in a local market (e.g., Dilli Haat, if time permits and interest) or relax at a cafe before your farewell dinner.",
+                "lunch": {
+                    "restaurant": "Saravana Bhavan",
+                    "cuisine": "South Indian (Vegetarian)",
+                    "mustTry": [
+                        "Ghee Roast Dosa",
+                        "Idli-Vada Sambar",
+                        "Filter Coffee",
+                        "Thali"
+                    ],
+                    "note": "A reliable chain for authentic South Indian vegetarian food, offering a wide range of dosas, idlis, and thalis. Multiple locations across Delhi."
+                },
+                "timing": "12:30 PM - 4:00 PM"
+            },
+            "evening": {
+                "activity": "Indulge in a world-class modern Indian fine dining experience.",
+                "location": "Fine Dining Experience",
+                "details": "Prepare for an exceptional culinary journey at one of Delhi's most renowned fine dining establishments.",
+                "dinner": {
+                    "restaurant": "Indian Accent",
+                    "cuisine": "Modern Indian",
+                    "mustTry": [
+                        "Blue cheese naan",
+                        "Foie gras galouti",
+                        "Panko-crusted river sole",
+                        "Daulat ki Chaat (dessert)"
+                    ],
+                    "note": "Known for its innovative Indian cuisine with global techniques and ingredients, offering a sophisticated and memorable dining experience for your final evening in Delhi. Reservations highly recommended."
+                },
+                "timing": "7:30 PM onwards"
+            }
+        }
+    ],
+    "localTips": [
+        "When visiting religious sites, always remove your shoes and dress modestly (shoulders and knees covered). Bargaining is expected in local markets for goods and auto-rickshaw fares (if not using apps).",
+        "Utilize the Delhi Metro; it's efficient, air-conditioned, and affordable. For cabs and auto-rickshaws, always use ride-sharing apps like Uber or Ola for transparent pricing and safety. Avoid hailing autos directly unless you've negotiated the fare beforehand.",
+        "Keep valuables secure, especially in crowded areas like markets and metro stations. Be wary of touts and scammers, particularly around major tourist sites \u2013 if an offer seems too good to be true, it probably is. Stick to reputable guides and vendors.",
+        "Indian Rupees (INR) is the currency. While major establishments accept cards, carry smaller denominations for street vendors, small shops, and local transport. ATMs are widely available, but it's wise to inform your bank before international travel.",
+        "The best time to visit is from October to March for pleasant weather. Visit popular attractions like India Gate, Qutub Minar, and Humayun's Tomb early morning or late afternoon to avoid peak crowds and the mid-day heat.",
+        "Learning a few basic Hindi phrases like \"Namaste\" (hello/goodbye) and \"Dhanyawad\" (thank you) can enhance interactions, though English is widely understood in tourist areas and by most service providers.",
+        "Pack light, breathable clothing (cotton/linen) suitable for warm weather for most of the year. For winter (Nov-Feb), bring layers including a light jacket or shawl. Comfortable walking shoes are a must, and women should consider a scarf for modesty at religious sites.",
+        "Explore the vibrant street food scene of Old Delhi (Chandni Chowk area) but stick to vendors with high footfall for freshness. Also, consider a heritage walk in areas like Hauz Khas Village or Mehrauli Archaeological Park for a deeper cultural dive beyond the main tourist circuit."
+    ]
+}

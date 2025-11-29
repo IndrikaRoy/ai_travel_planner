@@ -1,0 +1,323 @@
+{
+    "destination": "paris",
+    "duration": 0,
+    "overview": {
+        "totalCost": "3000",
+        "travelers": 4,
+        "startDate": "2025-11-28",
+        "endDate": "2025-12-10"
+    },
+    "transportation": {
+        "flights": {
+            "outbound": {
+                "date": "2025-11-28",
+                "estimatedPricePerPerson": "$450 - $600",
+                "totalEstimatedPrice": "$1800 - $2400",
+                "notes": "Prices are estimates for budget/economy class round-trip tickets, highly dependent on your departure city (e.g., major East Coast US city or European hub) and booking time. For this budget, consider budget airlines like Norse Atlantic, LEVEL, Play, or major carriers' sales well in advance. Flexibility with layovers may be required."
+            },
+            "return": {
+                "date": "2025-12-10",
+                "estimatedPricePerPerson": "Included in outbound total",
+                "totalEstimatedPrice": "Included in outbound total",
+                "notes": ""
+            }
+        },
+        "carRental": {
+            "type": "Compact SUV (e.g., Renault Captur, Peugeot 3008) or Mid-size Sedan for 4 travelers with luggage",
+            "dailyRateEstimated": "$50 - $80",
+            "recommendedCompanies": [
+                "Europcar",
+                "Sixt",
+                "Hertz",
+                "Avis",
+                "Enterprise"
+            ],
+            "notes": "A car is generally NOT recommended for travel within Paris due to heavy traffic, extremely expensive and scarce parking, and efficient public transport. Consider renting only for specific day trips outside the city (e.g., to Normandy, Loire Valley). Renting for the full 12 days will significantly impact the $3000 budget, likely leaving little for flights unless found at a very low price. Prices exclude mandatory insurance, fuel, and potential additional driver fees."
+        },
+        "localTransportation": {
+            "publicTransit": {
+                "options": [
+                    "Metro (subway): Extensive network covering all major attractions.",
+                    "RER (regional express train): Connects to airports (CDG, Orly) and suburbs, faster for longer distances.",
+                    "Bus: Good for sightseeing above ground, covers areas not served by Metro.",
+                    "Tram: Primarily serves peripheral areas of the city."
+                ],
+                "passes": [
+                    {
+                        "name": "Navigo D\u00e9couverte (weekly pass)",
+                        "cost": "Approx. \u20ac30 (Zones 1-5, valid Mon-Sun) + \u20ac5 for the physical card (per person).",
+                        "notes": "Best value for frequent use within a calendar week. Requires a passport-sized photo. For a 12-day trip crossing a week, you might need two weekly passes or combine with t+ tickets for the remaining days."
+                    },
+                    {
+                        "name": "Carnet de 10 t+ tickets",
+                        "cost": "Approx. \u20ac17.35 for 10 tickets (can be used on Metro, Bus, Tram, RER within Paris Zone 1).",
+                        "notes": "Good for occasional travel; single t+ tickets are \u20ac2.15. Each ticket is valid for one journey."
+                    },
+                    {
+                        "name": "Paris Visite Pass",
+                        "cost": "More expensive than Navigo, but valid for consecutive days and doesn't require a photo. E.g., 5-day Zone 1-3 pass ~\u20ac44, 5-day Zone 1-5 pass ~\u20ac76.",
+                        "notes": "Offers convenience, but rarely the most economical option for budget-conscious travelers."
+                    }
+                ],
+                "estimatedTotalFor4Travelers": "$150 - $250",
+                "notes": "Public transport is highly efficient, reliable, and the recommended way to explore Paris. Use apps like Citymapper or Google Maps for real-time navigation."
+            },
+            "rideSharing": {
+                "companies": [
+                    "Uber",
+                    "Bolt",
+                    "Free Now"
+                ],
+                "notes": "Widely available, but generally more expensive than public transit, especially during peak hours, bad weather, or for airport transfers. Useful for late-night travel, when carrying heavy luggage, or for direct routes where public transport requires multiple changes. Fares vary based on demand."
+            }
+        },
+        "budgetSummary": {
+            "overallBudget": "$3000",
+            "feasibilityNotes": "Achieving comfortable flights for 4 people AND a 12-day car rental AND local transportation within a $3000 budget for Paris, especially from a distant origin like North America, is extremely challenging and likely impossible. The provided flight estimates already consume a large portion of the budget. To stay within $3000: 1) Prioritize finding the absolute cheapest flights, even if it means compromises on comfort or layovers. 2) Strongly consider *not* renting a car, or only renting for 1-2 specific day trips outside Paris, relying primarily on excellent public transport. 3) Book all components well in advance."
+        }
+    },
+    "accommodation": [
+        {
+            "hotel": "Aparthotel Adagio Paris Centre Tour Eiffel",
+            "location": "15th Arrondissement (near Bir-Hakeim)",
+            "pricePerNight": 230,
+            "amenities": [
+                "Kitchenette",
+                "Free Wi-Fi",
+                "Living area",
+                "Fitness center",
+                "Laundry facilities",
+                "24-hour reception"
+            ],
+            "description": "Perfect for a group of four, this aparthotel offers comfortable apartments with kitchenettes, allowing you to save on food costs and enjoy home-cooked meals. Located near the Eiffel Tower, it provides excellent metro access for all your Parisian adventures, including quick trips to vibrant nightlife and diverse culinary scenes.",
+            "link": "https://maps.app.goo.gl/9c1sXw4392Y1y9oJ9"
+        },
+        {
+            "hotel": "Novotel Paris Les Halles",
+            "location": "1st Arrondissement (Ch\u00e2telet-Les Halles)",
+            "pricePerNight": 250,
+            "amenities": [
+                "Restaurant",
+                "Bar/Lounge",
+                "Fitness center",
+                "Family rooms available",
+                "Free Wi-Fi",
+                "Air conditioning"
+            ],
+            "description": "Situated in the absolute heart of Paris, this modern hotel is ideal for adventure seekers with major sights within walking distance and fantastic metro connections. Ch\u00e2telet-Les Halles is a hub for nightlife, shopping, and an incredible array of restaurants, ensuring your evenings are as exciting as your days.",
+            "link": "https://maps.app.goo.gl/x8NopKqDnjyQyL4t9"
+        },
+        {
+            "hotel": "H\u00f4tel Beaumarchais",
+            "location": "11th Arrondissement (near R\u00e9publique/Bastille)",
+            "pricePerNight": 240,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air conditioning",
+                "Soundproofed rooms",
+                "Breakfast available",
+                "24-hour reception"
+            ],
+            "description": "Immerse yourselves in the vibrant atmosphere of the 11th arrondissement, a hotspot for Parisian nightlife and innovative dining. H\u00f4tel Beaumarchais offers a stylish and comfortable base, perfect for those looking to explore trendy bars and diverse eateries, with great metro links for all your 'adventure' excursions across the city.",
+            "link": "https://maps.app.goo.gl/r6rC8324f9E3rXQGA"
+        },
+        {
+            "hotel": "Hotel Ibis Styles Paris Bercy",
+            "location": "12th Arrondissement (Bercy Village)",
+            "pricePerNight": 220,
+            "amenities": [
+                "Free breakfast",
+                "Free Wi-Fi",
+                "Bar",
+                "Modern rooms",
+                "Family rooms available"
+            ],
+            "description": "A fantastic value option for four travelers, this hotel is located near the lively Bercy Village, offering numerous restaurants, bars, and a cinema. With direct access to Metro Line 14, you'll swiftly reach all major attractions for your adventures, while enjoying a comfortable stay with complimentary breakfast.",
+            "link": "https://maps.app.goo.gl/U2iQ2vF6z79L23i98"
+        }
+    ],
+    "attractions": [
+        {
+            "name": "Catacombes de Paris",
+            "type": "Historical Site / Underground Museum",
+            "duration": "1.5 - 2 hours",
+            "cost": "~\u20ac29 (online reservation recommended)",
+            "bestTime": "Morning (before 10 AM) or late afternoon (after 3 PM) for fewer crowds."
+        },
+        {
+            "name": "Eiffel Tower",
+            "type": "Landmark / Observation Deck",
+            "duration": "2 - 3 hours",
+            "cost": "\u20ac11.30 (stairs to 2nd floor) - \u20ac28.30 (lift to top)",
+            "bestTime": "Late afternoon for sunset views and evening lights, or early morning for fewer crowds."
+        },
+        {
+            "name": "Moulin Rouge Cabaret",
+            "type": "Nightlife / Entertainment Venue",
+            "duration": "2 - 3 hours",
+            "cost": "\u20ac100 - \u20ac200+ (show only), up to \u20ac400+ (dinner + show)",
+            "bestTime": "Evening (shows typically start at 9 PM or 11 PM)."
+        },
+        {
+            "name": "Le Marais Food & Culture Tour",
+            "type": "Activity / Culinary Walking Tour",
+            "duration": "3 - 4 hours",
+            "cost": "\u20ac90 - \u20ac150 (depends on provider)",
+            "bestTime": "Morning or early afternoon (for tastings to serve as lunch/brunch)."
+        },
+        {
+            "name": "Montmartre & Sacr\u00e9-C\u0153ur Basilica",
+            "type": "Neighborhood / Landmark / Church",
+            "duration": "3 - 4 hours",
+            "cost": "Free (Basilica entry), Funicular ~\u20ac2.15 (standard metro ticket)",
+            "bestTime": "Late afternoon for sunset views over Paris, or early morning for fewer crowds."
+        },
+        {
+            "name": "Seine River Evening Cruise",
+            "type": "Activity / Sightseeing",
+            "duration": "1 - 1.5 hours (basic cruise), 2 - 3 hours (dinner cruise)",
+            "cost": "\u20ac15 - \u20ac25 (basic cruise), \u20ac50 - \u20ac100+ (dinner cruise)",
+            "bestTime": "Evening, especially after sunset, to see illuminated monuments."
+        },
+        {
+            "name": "Parisian Cooking or Pastry Class",
+            "type": "Activity / Culinary Workshop",
+            "duration": "3 - 5 hours",
+            "cost": "\u20ac100 - \u20ac200 (depends on class type and duration)",
+            "bestTime": "Morning or early afternoon (to prepare and enjoy lunch/dinner)."
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Le Relais de l'Entrec\u00f4te",
+            "cuisine": "French",
+            "specialty": "Single-menu concept: Steak Frites with secret sauce",
+            "priceRange": "$$",
+            "mustTry": "The 'Unique Formula' - walnut salad, followed by unlimited steak frites with their famous secret sauce.",
+            "link": "https://maps.app.goo.gl/351j41pY1dJc2LXZ6"
+        },
+        {
+            "name": "Bouillon Chartier",
+            "cuisine": "Traditional French",
+            "specialty": "Historic, bustling grand bouillon serving classic French dishes at unbeatable prices.",
+            "priceRange": "$",
+            "mustTry": "Oeuf mayonnaise, French Onion Soup (Soupe \u00e0 l'oignon gratin\u00e9e), Escargots, Confit de Canard, Profiteroles.",
+            "link": "https://www.bouillon-chartier.com/en/"
+        },
+        {
+            "name": "Clamato",
+            "cuisine": "Seafood, French-inspired",
+            "specialty": "Fresh, creative seafood small plates and natural wines in a vibrant atmosphere. From the Septime team.",
+            "priceRange": "$$$",
+            "mustTry": "Whatever is fresh on the raw bar menu (oysters, ceviche), seasonal tartares, and their famous maple syrup tart.",
+            "link": "https://www.clamato-paris.com/"
+        },
+        {
+            "name": "Pink Mamma",
+            "cuisine": "Italian",
+            "specialty": "Stunning decor, vibrant atmosphere, and authentic Tuscan-style wood-fired pizzas and homemade pasta.",
+            "priceRange": "$$",
+            "mustTry": "Truffle pasta, any of their wood-fired pizzas (especially the Regina Gialla), and the homemade Tiramisu.",
+            "link": "https://www.bigmammagroup.com/en/trattorias/pink-mamma"
+        },
+        {
+            "name": "Chez Janou",
+            "cuisine": "Proven\u00e7al French",
+            "specialty": "Lively, authentic bistro known for its extensive pastis menu and an 'all-you-can-eat' chocolate mousse.",
+            "priceRange": "$$",
+            "mustTry": "Daube de boeuf (Proven\u00e7al beef stew), various small Proven\u00e7al dishes, and the legendary chocolate mousse.",
+            "link": "https://maps.app.goo.gl/uX3L52F6M6x9xQcW7"
+        },
+        {
+            "name": "Le Mary Celeste",
+            "cuisine": "Seafood, Small Plates, Cocktails",
+            "specialty": "A trendy bar and restaurant in the Marais, famous for its fresh oysters, creative cocktails, and sharing plates.",
+            "priceRange": "$$",
+            "mustTry": "Fresh oysters (varying selection daily), seasonal small plates, and a bespoke cocktail from their inventive menu.",
+            "link": "https://maps.app.goo.gl/kX72w3J57eHqSjG38"
+        }
+    ],
+    "activities": [
+        {
+            "day": 1,
+            "morning": "Arrive in Paris, check into accommodation. Settle in and take a gentle stroll around your immediate neighborhood to get acquainted. Grab a quick bite from a local bakery.",
+            "afternoon": "Walk along the Seine River, perhaps from Pont Neuf towards Notre Dame Cathedral (view from outside) and \u00cele de la Cit\u00e9. Soak in the classic Parisian atmosphere.",
+            "evening": "Dinner at **Bouillon Chartier** (Grands Boulevards area) for a classic, bustling, and budget-friendly traditional French experience. Try the French Onion Soup and Confit de Canard."
+        },
+        {
+            "day": 2,
+            "morning": "Explore the Trocad\u00e9ro Gardens for iconic views of the Eiffel Tower from across the Seine. Enjoy a leisurely coffee at a caf\u00e9 with a view. Walk towards Les Invalides (exterior views).",
+            "afternoon": "**Eiffel Tower** visit. Aim for a late afternoon slot (pre-booked tickets are essential) to experience both daylight views, sunset, and the initial sparkling lights. (Allow 2-3 hours).",
+            "evening": "**Seine River Evening Cruise** immediately after your Eiffel Tower visit to see the city's monuments illuminated. (Choose a basic cruise for 1-1.5 hours or a dinner cruise for 2-3 hours). Dinner will be in the St-Germain-des-Pr\u00e9s or Latin Quarter area if not doing a dinner cruise."
+        },
+        {
+            "day": 3,
+            "morning": "Engage in a **Parisian Cooking or Pastry Class**. A wonderful hands-on experience, often including the meal or pastries you've prepared. (Allow 3-5 hours).",
+            "afternoon": "Explore the historic Latin Quarter. Wander through the charming streets, visit Shakespeare and Company bookstore, and see the Panth\u00e9on (exterior or interior).",
+            "evening": "Enjoy dinner at a traditional local bistro in the vibrant Latin Quarter or elegant Saint-Germain-des-Pr\u00e9s."
+        },
+        {
+            "day": 4,
+            "morning": "Head to **Montmartre**. Start with the **Sacr\u00e9-C\u0153ur Basilica** (free entry) and enjoy the panoramic views of Paris. Explore Place du Tertre and watch the artists at work.",
+            "afternoon": "Continue exploring Montmartre, discover hidden staircases, visit the Wall of Love (Le Mur des Je t'aime), and browse the unique shops and galleries in this bohemian neighborhood.",
+            "evening": "Dinner in Montmartre, then experience the spectacular **Moulin Rouge Cabaret**. (Pre-booking is essential for shows, typically starting at 9 PM or 11 PM. Consider the dinner + show option or dine beforehand)."
+        },
+        {
+            "day": 5,
+            "morning": "Embark on a **Le Marais Food & Culture Tour**. This tour will serve as a delicious brunch or lunch, introducing you to the culinary history and hidden gems of one of Paris's most charming districts. (Allow 3-4 hours).",
+            "afternoon": "Continue exploring Le Marais on your own \u2013 visit the beautiful Place des Vosges, explore the historic Jewish Quarter, and browse the chic boutiques.",
+            "evening": "Dinner at **Chez Janou** (Le Marais) for an authentic Proven\u00e7al experience. Don't miss their legendary 'all-you-can-eat' chocolate mousse."
+        },
+        {
+            "day": 6,
+            "morning": "Visit the unique and somber **Catacombes de Paris**. (Book tickets online for a specific time slot and aim for early morning before 10 AM, even with a reservation, for fewer crowds. Allow 1.5-2 hours).",
+            "afternoon": "Unwind and relax at the beautiful Luxembourg Gardens (Jardin du Luxembourg), located nearby. Enjoy the fountains, sculptures, and serene atmosphere.",
+            "evening": "Dinner at **Le Relais de l'Entrec\u00f4te** (multiple locations available across Paris) for their famous single-menu concept: Steak Frites with their secret sauce and unlimited refills."
+        },
+        {
+            "day": 7,
+            "morning": "Explore the elegant St-Germain-des-Pr\u00e9s neighborhood. Visit iconic literary cafes like Les Deux Magots and Caf\u00e9 de Flore. Browse art galleries and high-end boutiques.",
+            "afternoon": "Indulge in some leisurely shopping, explore a major Parisian museum of your choice (e.g., Mus\u00e9e d'Orsay for Impressionist art or Mus\u00e9e Rodin for sculpture), or simply enjoy more caf\u00e9 culture.",
+            "evening": "Indulge in a special dinner at **Clamato** (near Bastille/Oberkampf area). Reservations are highly recommended for their fresh, creative seafood small plates and natural wines."
+        },
+        {
+            "day": 8,
+            "morning": "Explore a different Parisian district like Canal Saint-Martin for a relaxed atmosphere, trendy boutiques, and waterside cafes, or visit a local market like March\u00e9 des Enfants Rouges in Le Marais.",
+            "afternoon": "Enjoy a leisurely afternoon, perhaps visiting a park like Parc des Buttes-Chaumont, known for its dramatic landscapes and city views, or simply relax at a charming patisserie.",
+            "evening": "Enjoy a casual dinner at a local cr\u00eaperie for authentic savory and sweet cr\u00eapes, or a charming traditional brasserie in a neighborhood you've enjoyed."
+        },
+        {
+            "day": 9,
+            "morning": "Walk along the iconic Champs-\u00c9lys\u00e9es, doing some window shopping. Visit the Arc de Triomphe and consider climbing to the top for impressive city views (optional, pre-book if possible).",
+            "afternoon": "Spend the afternoon exploring the grand department stores like Galeries Lafayette or Printemps near Op\u00e9ra, enjoying their architecture and rooftop views, or exploring the Palais Royal gardens.",
+            "evening": "Dinner at **Pink Mamma** (Pigalle/South Montmartre area) for stunning Italian food, especially their wood-fired pizzas and truffle pasta, served in a vibrant, beautifully decorated setting. Reservations are highly recommended."
+        },
+        {
+            "day": 10,
+            "morning": "Revisit a favorite neighborhood for more exploration, or discover a new one like the charming \u00cele Saint-Louis. Enjoy the atmosphere and artisanal shops.",
+            "afternoon": "Take a moment to relax at a caf\u00e9, read a book, or enjoy some people-watching in a lively square. Perhaps browse for some unique souvenirs.",
+            "evening": "Enjoy a delightful farewell dinner at a charming local restaurant you've discovered, or a highly-rated establishment that caught your eye during your trip."
+        },
+        {
+            "day": 11,
+            "morning": "Flexibility day: Use this morning for any attractions you might have missed, want to revisit, or for last-minute souvenir shopping at a local market or specialty food shops.",
+            "afternoon": "Enjoy a final Parisian pastry and coffee experience. Begin to pack and prepare for your departure tomorrow, reflecting on your wonderful trip.",
+            "evening": "A relaxed dinner close to your accommodation, or a repeat visit to a favorite restaurant from your trip, depending on your energy levels and preferences."
+        },
+        {
+            "day": 12,
+            "morning": "Enjoy a final Parisian breakfast at a local boulangerie or caf\u00e9. Depending on your flight schedule, you may have time for one last stroll or souvenir purchase.",
+            "afternoon": "Check out from your accommodation and depart from Paris, taking with you unforgettable memories of the City of Light.",
+            "evening": "Travel to airport/departure."
+        }
+    ],
+    "localTips": [
+        "Always greet with \"Bonjour Monsieur/Madame\" when entering a shop or restaurant, and \"Merci\" when leaving; a little French goes a long way.",
+        "Master the efficient M\u00e9tro system; always validate your ticket and be wary of pickpockets, especially on crowded lines and the RER B to/from airports.",
+        "Be extremely vigilant about pickpockets in crowded tourist areas like the Eiffel Tower, Louvre, and M\u00e9tro; also avoid \"friendship bracelet\" or petition scams.",
+        "Pre-book tickets online for major attractions to save hours in queues; visit popular spots first thing in the morning or late in the afternoon/evening.",
+        "Service is always included in restaurant bills, but it's customary and appreciated to round up or leave an extra few euros for excellent service.",
+        "Pack comfortable walking shoes; you'll be doing a lot of exploring on foot. Layers are also key for Paris's often unpredictable weather.",
+        "For an authentic experience, skip overpriced tourist trap dinners and instead assemble a picnic of fresh baguette, cheese, wine, and charcuterie from a local market or supermarket to enjoy by the Seine."
+    ]
+}

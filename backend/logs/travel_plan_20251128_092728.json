@@ -1,0 +1,226 @@
+{
+    "destination": "universal studios hollywood",
+    "duration": 7,
+    "overview": {
+        "totalCost": "5000",
+        "travelers": 4,
+        "startDate": "2025-11-25",
+        "endDate": "2025-12-01"
+    },
+    "transportation": {
+        "flights": [
+            {
+                "direction": "outbound",
+                "date": "2025-11-25",
+                "estimatedPricePerPerson": 375,
+                "totalEstimatedPrice": 1500,
+                "notes": "Estimated from a major US city to LAX (Los Angeles International Airport) during Thanksgiving week. Prices are highly variable and will be elevated due to peak travel. Booking far in advance is critical. Consider Burbank (BUR) for closer proximity to Universal, though prices might vary."
+            },
+            {
+                "direction": "return",
+                "date": "2025-12-01",
+                "estimatedPricePerPerson": 375,
+                "totalEstimatedPrice": 1500,
+                "notes": "Estimated from LAX to a major US city. Peak return travel after the Thanksgiving holiday weekend will impact prices and availability. Book early for best rates."
+            }
+        ],
+        "carRental": {
+            "type": "Standard SUV or Full-Size Sedan",
+            "dailyRate": 100,
+            "estimatedWeeklyRate": 700,
+            "recommendedCompany": "Enterprise, Hertz, Avis, Budget",
+            "notes": "Recommended for comfort and luggage space for 4 travelers. Rates will be elevated due to the Thanksgiving holiday week. Book well in advance. Factor in additional costs for fuel, insurance (if not covered by personal policy/credit card), and parking (Universal Studios parking is around $30-$50 per day; hotel parking also adds up)."
+        },
+        "localTransportation": {
+            "publicTransit": {
+                "options": "LA Metro Rail (B Line/Red Line to Universal City/Studio City station, then free shuttle to Universal Studios), Metro Buses, LAX FlyAway bus.",
+                "costEstimate": "LAX FlyAway to Union Station: ~$10-15 per person. Metro Rail fare: $1.75 per ride (or $7 for a 1-day pass, $25 for a 7-day pass).",
+                "notes": "Public transit is a cost-effective option, especially for Universal Studios via the B Line. However, LA's public transit network can be slow and requires transfers, especially from LAX. Less ideal for exploring diverse areas efficiently without a car."
+            },
+            "rideSharing": {
+                "services": "Uber, Lyft",
+                "costEstimate": "LAX to Universal City: ~$40-70+ (one-way, standard size, can be higher with surge pricing or XL car for 4 people with luggage). Local rides (e.g., hotel to dinner): ~$10-30 per ride.",
+                "notes": "Convenient for door-to-door service, especially with a group of 4. Costs can add up quickly, especially during peak traffic times or with surge pricing. Factor in potential for higher costs for larger vehicles (UberXL/Lyft XL) to accommodate 4 travelers and luggage comfortably."
+            }
+        }
+    },
+    "accommodation": {
+        "hotel": "Hilton Los Angeles/Universal City",
+        "location": "Universal City",
+        "pricePerNight": 720,
+        "amenities": [
+            "Direct pedestrian access to Universal Studios Hollywood & CityWalk",
+            "Outdoor heated pool and hot tub",
+            "Multiple on-site dining options",
+            "Fitness center",
+            "Concierge service",
+            "Complimentary WiFi",
+            "Rooms with two queen beds or suites available"
+        ],
+        "description": "Located directly across from Universal Studios Hollywood and CityWalk, the Hilton Los Angeles/Universal City offers unparalleled convenience for families and groups of four seeking adventure. Guests can easily walk to the theme park for thrilling experiences. The hotel boasts multiple dining options ranging from casual to upscale, and guests have immediate access to the vibrant array of restaurants, shops, and entertainment at Universal CityWalk, perfect for satisfying food cravings and enjoying lively nightlife. Enjoy premium amenities including a heated outdoor pool, a fitness center, and spacious accommodations ideal for four travelers, ensuring a comfortable and memorable stay."
+    },
+    "attractions": [
+        {
+            "name": "Universal Studios Hollywood Theme Park",
+            "type": "Theme Park",
+            "duration": "1-2 full days",
+            "cost": "Starts at $109 (varies by date, season, and pass type)",
+            "bestTime": "Early morning right at park opening, weekdays for fewer crowds. Consider an Express Pass for peak times."
+        },
+        {
+            "name": "Universal CityWalk Hollywood",
+            "type": "Entertainment Complex",
+            "duration": "3-5 hours",
+            "cost": "Free entry, parking fee applies. Pay for food, drinks, and activities.",
+            "bestTime": "Evenings, especially after the theme park closes, for dining, movies, live music, and vibrant nightlife."
+        },
+        {
+            "name": "The Wizarding World of Harry Potter",
+            "type": "Themed Land/Attraction",
+            "duration": "4-6 hours (part of a full park day)",
+            "cost": "Included with Universal Studios Hollywood Theme Park ticket",
+            "bestTime": "First thing in the morning when the park opens, or later in the evening to experience the magical atmosphere and shorter ride lines."
+        },
+        {
+            "name": "World-Famous Studio Tour",
+            "type": "Tour/Attraction",
+            "duration": "60 minutes",
+            "cost": "Included with Universal Studios Hollywood Theme Park ticket",
+            "bestTime": "Mid-day when other ride lines are long, or in the early afternoon. The experience is great any time."
+        },
+        {
+            "name": "Hollywood Walk of Fame & TCL Chinese Theatre",
+            "type": "Landmark/Cultural Area",
+            "duration": "2-3 hours",
+            "cost": "Free to walk and explore; additional cost for specific tours or movie screenings.",
+            "bestTime": "Late morning or early afternoon to enjoy the sights and people-watching. Avoid late evenings if unfamiliar with the area."
+        },
+        {
+            "name": "Griffith Observatory",
+            "type": "Observatory/Landmark/Museum",
+            "duration": "2-4 hours",
+            "cost": "Free entry to grounds and exhibits; parking fee applies (approx. $10/hour).",
+            "bestTime": "Late afternoon to capture stunning panoramic city views, enjoy the sunset, and then stay for evening stargazing and celestial observations."
+        },
+        {
+            "name": "Runyon Canyon Park",
+            "type": "Park/Hiking Trail",
+            "duration": "1.5-3 hours",
+            "cost": "Free",
+            "bestTime": "Early morning or late afternoon to avoid the mid-day heat and large crowds. Offers great views of the Hollywood sign and city skyline."
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Toothsome Chocolate Emporium & Savory Feast Kitchen",
+            "cuisine": "American, Dessert",
+            "specialty": "A whimsical, steampunk-themed restaurant in CityWalk, famous for its extravagant desserts, towering milkshakes, and a full menu of creative savory dishes.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Protein Burger",
+                "Rixter's Cream Puff Doughnuts",
+                "Any of their elaborate milkshakes (e.g., Chocolate x5, Key Lime Pie)"
+            ]
+        },
+        {
+            "name": "Firefly",
+            "cuisine": "American, Californian, Upscale Bar",
+            "specialty": "A chic and romantic hideaway in Studio City, known for its lush outdoor patio, sophisticated ambiance, craft cocktails, and elevated comfort food. Perfect for a memorable dinner and drinks.",
+            "priceRange": "$$$",
+            "mustTry": [
+                "Firefly Burger",
+                "Crispy Brussels Sprouts",
+                "Seasonal Craft Cocktails"
+            ]
+        },
+        {
+            "name": "In-N-Out Burger",
+            "cuisine": "American Fast Food",
+            "specialty": "An iconic California institution, renowned for its simple, fresh menu and legendary 'secret menu' options. A quintessential LA experience and a local favorite.",
+            "priceRange": "$",
+            "mustTry": [
+                "Double-Double Animal Style",
+                "Animal Style Fries",
+                "Neapolitan Shake"
+            ]
+        },
+        {
+            "name": "Teddy's Red Tacos",
+            "cuisine": "Mexican (Birria de Res)",
+            "specialty": "A popular spot for authentic Tijuana-style birria de res (slow-cooked beef stew) tacos, quesadillas, and vampiros, famous for their rich, flavorful consom\u00e9.",
+            "priceRange": "$",
+            "mustTry": [
+                "Birria de Res Tacos (dipped in consom\u00e9)",
+                "Quesataco",
+                "Consom\u00e9"
+            ]
+        },
+        {
+            "name": "Voodoo Doughnut",
+            "cuisine": "Doughnuts, Dessert",
+            "specialty": "A cult-favorite doughnut shop in CityWalk, known for its incredibly unique, quirky, and often outrageous doughnut creations. Great for a fun, quick treat.",
+            "priceRange": "$",
+            "mustTry": [
+                "Voodoo Doll Doughnut",
+                "Bacon Maple Bar",
+                "Old Dirty Bastard"
+            ]
+        },
+        {
+            "name": "The Three Broomsticks",
+            "cuisine": "British Pub Fare",
+            "specialty": "An immersive dining experience within The Wizarding World of Harry Potter at Universal Studios Hollywood, serving traditional British comfort food in a rustic, magical setting.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Shepherd's Pie",
+                "Fish and Chips",
+                "Butterbeer (regular or frozen)"
+            ]
+        }
+    ],
+    "activities": [
+        {
+            "day": 1,
+            "morning": "Arrive in Los Angeles, check into your accommodation near Universal City. Head directly to Universal Studios Hollywood Theme Park. Start your day by immersing yourself in The Wizarding World of Harry Potter. Experience Harry Potter and the Forbidden Journey and explore Hogsmeade.",
+            "afternoon": "Continue exploring Universal Studios Hollywood. Venture to the Lower Lot to ride Jurassic World \u2013 The Ride, Revenge of the Mummy, and Transformers: The Ride 3D. Catch any shows that pique your interest.",
+            "evening": "Enjoy dinner at Toothsome Chocolate Emporium & Savory Feast Kitchen in Universal CityWalk Hollywood. Afterwards, take some time to explore the vibrant entertainment complex, perhaps catching a street performance or browsing the unique shops."
+        },
+        {
+            "day": 2,
+            "morning": "Return to Universal Studios Hollywood Theme Park. Dedicate your morning to exploring Super Nintendo World (if open and interested), or revisiting favorite rides. Alternatively, explore other Upper Lot attractions like The Secret Life of Pets: Off the Leash and Despicable Me Minion Mayhem.",
+            "afternoon": "Embark on the World-Famous Studio Tour, a highlight of Universal Studios. This 60-minute tour takes you through active movie sets. Afterward, enjoy any missed rides, shows, or character meet-and-greets.",
+            "evening": "Have a relaxed evening with dinner at one of the casual eateries in Universal CityWalk Hollywood. Consider grabbing a unique treat from Voodoo Doughnut for dessert, experiencing their quirky creations."
+        },
+        {
+            "day": 3,
+            "morning": "Head to Hollywood to explore the iconic Hollywood Walk of Fame and visit the historic TCL Chinese Theatre. Spend a couple of hours soaking in the cinematic history and spotting your favorite stars.",
+            "afternoon": "Make your way to Griffith Observatory. Arrive in the late afternoon to secure parking and explore the exhibits. Find a prime spot to watch the sunset paint the sky over the city, offering breathtaking panoramic views.",
+            "evening": "Stay at Griffith Observatory for stargazing and celestial observations. For dinner, experience the upscale ambiance and delicious cuisine at Firefly in Studio City, a short drive from the Observatory and Hollywood area."
+        },
+        {
+            "day": 4,
+            "morning": "Start your day with an invigorating hike at Runyon Canyon Park. Enjoy the scenic trails and be rewarded with stunning views of the Hollywood Sign and the sprawling Los Angeles skyline.",
+            "afternoon": "Enjoy some free time for relaxation, perhaps by your hotel pool, or explore a nearby neighborhood like West Hollywood for some window shopping or a casual coffee break. This is a good opportunity to recharge.",
+            "evening": "For an authentic and flavorful experience, head to Teddy's Red Tacos for dinner. Indulge in their renowned birria de res tacos and quesatacos, complete with savory consom\u00e9. It's a casual yet memorable meal."
+        },
+        {
+            "day": 5,
+            "morning": "Consider a return to Universal Studios Hollywood Theme Park if you wish to revisit favorite rides, catch shows you missed, or simply enjoy the park at a more leisurely pace. Alternatively, explore other areas of Los Angeles.",
+            "afternoon": "Spend your afternoon at Universal CityWalk Hollywood. Browse the shops for souvenirs, catch a movie, or simply enjoy the lively atmosphere. It's a great place for people-watching and soaking in the entertainment vibe.",
+            "evening": "Conclude your Universal adventure with a classic California meal. Head to In-N-Out Burger for their famous Double-Double and Animal Style Fries. It's a must-try for any visitor to the Golden State."
+        },
+        {
+            "day": 6,
+            "morning": "Enjoy a leisurely breakfast at your hotel or a local cafe. Depending on your flight schedule, you might have time for some last-minute souvenir shopping or a final stroll through Universal CityWalk. Check out from your hotel and head to the airport for your departure."
+        }
+    ],
+    "localTips": [
+        "To save on parking hassle and cost, take the Metro Red Line to Universal City station and catch the free Universal Shuttle directly to the park entrance.",
+        "Always wear comfortable walking shoes; you'll be covering a lot of ground. Bring sunscreen and a reusable water bottle to stay hydrated using the park's numerous refill stations, especially during warmer months.",
+        "Hit Super Nintendo World and The Wizarding World of Harry Potter at 'rope drop' (park opening) or right before closing for the shortest waits. Utilize the Single Rider line for eligible attractions like Revenge of the Mummy and Jurassic World VelociCoaster to cut down on wait times.",
+        "Download the Universal Studios Hollywood app for live wait times, a park map, mobile food ordering, and show schedules. It's also smart to pack a portable charger for your phone to ensure you don't run out of battery.",
+        "Respect queue etiquette \u2013 no cutting in line, and keep your valuables secure in zippered pockets or lockers. While the park is very safe, common sense and awareness of your surroundings are always good practice.",
+        "Don't miss the WaterWorld show; it's a fantastic live-action spectacle! Arrive 15-20 minutes early for a good seat, and be prepared for the 'wet zone' in the front rows if you want to cool off.",
+        "Consider packing layers, as mornings and evenings can be surprisingly cool even if the daytime is hot. While English is primary, general politeness and patience are appreciated customs in queues and interactions."
+    ]
+}

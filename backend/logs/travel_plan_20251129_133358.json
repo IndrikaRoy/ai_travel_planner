@@ -1,0 +1,297 @@
+{
+    "destination": "paris",
+    "duration": 5,
+    "overview": {
+        "totalCost": "3000",
+        "travelers": 1,
+        "startDate": "2025-11-29",
+        "endDate": "2025-12-03"
+    },
+    "transportation": {
+        "flights": {
+            "outbound": {
+                "date": "2025-11-29",
+                "origin": "JFK",
+                "destination": "CDG",
+                "estimatedPriceUSD": 475
+            },
+            "return": {
+                "date": "2025-12-03",
+                "origin": "CDG",
+                "destination": "JFK",
+                "estimatedPriceUSD": 475
+            },
+            "totalEstimatedFlightPriceUSD": 950
+        },
+        "carRental": {
+            "recommended": false,
+            "reason": "Car rental is generally not recommended for getting around within Paris due to excellent public transport, high parking costs, traffic, and low-emission zones. Consider only if planning extensive day trips outside the city.",
+            "type": "Economy (e.g., Renault Clio, Peugeot 208)",
+            "dailyRateEstimatedUSD": 55,
+            "recommendedCompanies": [
+                "Europcar",
+                "Sixt",
+                "Hertz",
+                "Avis"
+            ]
+        },
+        "localTransportation": {
+            "publicTransit": {
+                "options": [
+                    "Metro: Extensive subway system, highly efficient for intra-city travel.",
+                    "RER: Regional express trains connecting Paris to suburbs and airports.",
+                    "Buses: Comprehensive network, good for scenic routes and areas not covered by Metro.",
+                    "Trams: Serve peripheral areas of the city.",
+                    "Funicular: Montmartre Funicular."
+                ],
+                "passes": [
+                    "Single 'T+' ticket: Valid for one journey on Metro, RER (within Paris), bus, or tram (\u20ac2.15).",
+                    "Carnet of 10 'T+' tickets: A bundle of 10 tickets, offering a slight discount (\u20ac17.35).",
+                    "Navigo Libert\u00e9+: Pay-as-you-go, useful if you make fewer than ~8 journeys per day.",
+                    "Navigo D\u00e9couverte: Weekly pass (Zone 1-5, approx. \u20ac30.75 for unlimited travel), valid Monday to Sunday, requires a photo ID. May not be cost-effective for a Saturday-Wednesday trip.",
+                    "Paris Visite Pass: Available for 1, 2, 3, or 5 days (Zone 1-3 or 1-5). Often more expensive than individual tickets/carnet for typical tourist usage, but offers convenience."
+                ],
+                "recommendation": "For a 4-day trip starting on a Saturday, purchasing individual 'T+' tickets or a 'Carnet' of 10 tickets is often the most cost-effective solution for city travel. Consider the Paris Visite Pass (Zone 1-3) if you anticipate very heavy daily usage, or Navigo Libert\u00e9+."
+            },
+            "rideSharing": {
+                "apps": [
+                    "Uber",
+                    "Bolt",
+                    "FreeNow"
+                ],
+                "info": "Widely available throughout Paris, convenient for direct trips, late-night travel, or when carrying luggage. Prices vary based on demand, distance, and time of day."
+            },
+            "airportTransfer": {
+                "CDG_options": [
+                    "RER B train: Direct connection to central Paris stations (e.g., Gare du Nord, Ch\u00e2telet-Les Halles, St-Michel Notre-Dame). Cost approx. \u20ac11.80, journey 30-45 minutes.",
+                    "Roissybus: Express coach service to Op\u00e9ra Garnier. Cost approx. \u20ac16.20, journey 60-75 minutes.",
+                    "Taxi: Flat rate of \u20ac55 to the Right Bank of Paris, \u20ac62 to the Left Bank.",
+                    "Ride-sharing: Uber/Bolt/FreeNow available, typically similar pricing to taxis."
+                ],
+                "ORY_options": [
+                    "Orlyval (automatic metro) to RER B train: Connects Orly Airport to Antony station, then RER B to central Paris. Cost approx. \u20ac11.30, journey 35-45 minutes.",
+                    "Orlybus: Express coach service to Denfert-Rochereau. Cost approx. \u20ac11.20, journey 30-40 minutes.",
+                    "Taxi: Flat rate of \u20ac41 to the Right Bank of Paris, \u20ac35 to the Left Bank.",
+                    "Ride-sharing: Uber/Bolt/FreeNow available."
+                ]
+            }
+        }
+    },
+    "accommodation": [
+        {
+            "hotel": "H\u00f4tel Costes",
+            "location": "1st Arrondissement (Rue Saint-Honor\u00e9 / Place Vend\u00f4me)",
+            "pricePerNight": 720,
+            "amenities": [
+                "Indoor pool",
+                "Spa",
+                "Fitness center",
+                "World-famous restaurant & bar",
+                "Luxurious rooms",
+                "Courtyard"
+            ],
+            "description": "An iconic luxury hotel known for its sophisticated, dark, and sensual ambiance, attracting a fashionable crowd. Its restaurant and bar are major nightlife hubs, perfect for people-watching. Located in the heart of high-fashion shopping, it offers an exclusive Parisian experience. Ideal for those seeking glamour, nightlife, and designer shopping 'adventures'.",
+            "link": "https://hotelcostes.com/"
+        },
+        {
+            "hotel": "Le Meurice",
+            "location": "1st Arrondissement (Rue de Rivoli, opposite Tuileries Garden)",
+            "pricePerNight": 750,
+            "amenities": [
+                "Two Michelin-starred restaurants (Restaurant le Meurice Alain Ducasse, Le Dal\u00ed)",
+                "Valmont Spa",
+                "Fitness center",
+                "Elegant rooms",
+                "Superb service"
+            ],
+            "description": "A historic palace hotel offering unparalleled luxury and classic French elegance. Overlooking the Tuileries Garden and mere steps from the Louvre and Place Vend\u00f4me, it\u2019s perfectly situated for high-end shopping and cultural 'adventures'. Its opulent setting and exceptional dining options make it a destination in itself.",
+            "link": "https://www.dorchestercollection.com/en/paris/le-meurice/"
+        },
+        {
+            "hotel": "Hotel Lutetia",
+            "location": "6th Arrondissement (Saint-Germain-des-Pr\u00e9s)",
+            "pricePerNight": 680,
+            "amenities": [
+                "Akasha Holistic Wellbeing Centre (indoor pool, spa, gym)",
+                "Brasserie Lutetia",
+                "Saint-Germain Bar",
+                "Jazz Bar",
+                "Elegantly redesigned rooms"
+            ],
+            "description": "The only true Grand Hotel on the Left Bank, the Lutetia boasts a rich history and a stunning contemporary renovation. Located in the vibrant Saint-Germain-des-Pr\u00e9s district, it's ideal for art galleries, boutique shopping, and a sophisticated nightlife scene. Offers a luxurious base for exploring the intellectual and artistic heart of Paris.",
+            "link": "https://www.hotellutetia.com/"
+        },
+        {
+            "hotel": "H\u00f4tel National des Arts et M\u00e9tiers",
+            "location": "3rd Arrondissement (Le Marais / Arts et M\u00e9tiers)",
+            "pricePerNight": 550,
+            "amenities": [
+                "Rooftop bar (seasonal)",
+                "Italian restaurant",
+                "Stylish cocktail bar",
+                "Contemporary rooms",
+                "Fitness room",
+                "Minibar"
+            ],
+            "description": "A sleek and modern boutique hotel known for its industrial-chic design and vibrant atmosphere. Nestled between the trendy Le Marais and the bustling Arts et M\u00e9tiers neighborhoods, it provides easy access to unique shopping, eclectic dining, and lively nightlife. Perfect for a traveler looking for a stylish stay with a modern edge and 'adventure' in exploring authentic Parisian quarters.",
+            "link": "https://www.hotelnational.paris/"
+        }
+    ],
+    "attractions": [
+        {
+            "name": "Eiffel Tower",
+            "type": "landmark",
+            "duration": "2-3 hours",
+            "cost": "\u20ac11.30 - \u20ac28.30 (depending on level and access method)",
+            "bestTime": "Late afternoon for sunset views, or evening for its sparkling lights. Early morning to avoid crowds."
+        },
+        {
+            "name": "Louvre Museum",
+            "type": "museum",
+            "duration": "3-4 hours (for a focused visit)",
+            "cost": "\u20ac17-\u20ac22 (online vs. on-site)",
+            "bestTime": "Wednesday or Friday evenings (open later), early morning, or off-peak seasons."
+        },
+        {
+            "name": "Paris Catacombs",
+            "type": "historical site",
+            "duration": "1.5 - 2 hours",
+            "cost": "\u20ac29 (full price with audioguide)",
+            "bestTime": "Early morning right at opening to avoid the longest queues, or late afternoon."
+        },
+        {
+            "name": "Champs-\u00c9lys\u00e9es & Arc de Triomphe",
+            "type": "landmark, shopping district",
+            "duration": "2-4 hours (for strolling and climbing Arc)",
+            "cost": "Arc de Triomphe - \u20ac16; Shopping - variable",
+            "bestTime": "Late afternoon for luxury shopping and sunset view from the Arc, followed by an evening stroll."
+        },
+        {
+            "name": "Moulin Rouge Show",
+            "type": "nightlife, cabaret",
+            "duration": "2-3 hours (show duration)",
+            "cost": "\u20ac100 - \u20ac400+ (show only vs. dinner+show)",
+            "bestTime": "Evening (shows typically at 9 PM and 11 PM)"
+        },
+        {
+            "name": "Le Marais District",
+            "type": "neighborhood, shopping, dining",
+            "duration": "3-5 hours (exploring, shopping, meal)",
+            "cost": "Variable (shopping, food, drinks)",
+            "bestTime": "Afternoon for boutique shopping and exploring, evening for dinner and lively bar scene."
+        },
+        {
+            "name": "Sacr\u00e9-C\u0153ur Basilica & Montmartre",
+            "type": "landmark, neighborhood",
+            "duration": "2-4 hours (exploring, basilica visit)",
+            "cost": "Basilica - Free (dome climb \u20ac8); Montmartre - Free",
+            "bestTime": "Late afternoon for panoramic views and sunset, then stay for dinner/drinks in the artistic Montmartre area."
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Le Bouillon Chartier (Grands Boulevards)",
+            "cuisine": "Traditional French Bistro",
+            "specialty": "Historic setting, classic French dishes at affordable prices, lively bustling atmosphere. A true Parisian institution for an authentic experience.",
+            "priceRange": "$",
+            "mustTry": [
+                "Steak Frites",
+                "French Onion Soup (Soupe \u00e0 l'oignon gratin\u00e9e)",
+                "Duck Confit (Confit de Canard)",
+                "Cr\u00e8me br\u00fbl\u00e9e",
+                "Profiteroles"
+            ],
+            "link": "https://www.bouillon-chartier.com/en/"
+        },
+        {
+            "name": "L'Avant Comptoir de la Terre",
+            "cuisine": "French Tapas / Wine Bar",
+            "specialty": "A vibrant, standing-room-only wine bar offering exquisite, creative small plates ('tapas') and an extensive selection of natural wines. Perfect for a lively evening and solo adventure.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Ib\u00e9rian Ham Croquettes",
+                "Pork Belly with Mustard",
+                "Seasonal Terrines",
+                "Artisanal Cheeses",
+                "Excellent natural wines by the glass"
+            ],
+            "link": "https://www.hotel-relais-saint-germain.com/l-avant-comptoir-de-la-terre/"
+        },
+        {
+            "name": "Frenchie Wine Bar",
+            "cuisine": "Modern French, Small Plates",
+            "specialty": "The more casual and equally popular sibling of the famous Frenchie restaurant. Offers innovative small plates, a fantastic natural wine list, and a chic, bustling atmosphere. Great for post-shopping or a relaxed, quality dinner.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Seasonal small plates (menu changes frequently)",
+                "Smoked Trout",
+                "Burrata with seasonal accompaniments",
+                "Charcuterie board"
+            ],
+            "link": "https://www.frenchie-restaurant.com/en/wine-bar"
+        },
+        {
+            "name": "Clamato",
+            "cuisine": "Seafood, Modern French",
+            "specialty": "From the team behind the Michelin-starred Septime, Clamato is a lively, no-reservation spot focusing on incredibly fresh, high-quality seafood and shellfish with innovative preparations. A culinary adventure.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Daily selection of Oysters",
+                "Raw fish preparations (ceviche, crudo style)",
+                "Grilled Octopus",
+                "Maple Syrup Tart (a famous dessert)"
+            ],
+            "link": "https://www.clamato-paris.com/"
+        },
+        {
+            "name": "Le Bistrot Paul Bert",
+            "cuisine": "Traditional French Bistro",
+            "specialty": "A beloved, quintessential Parisian bistro known for its hearty, classic French fare, generous portions, and a lively, authentic atmosphere. Expect excellent quality and a robust wine list.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Steak Frites with Pepper Sauce (Steak au Poivre)",
+                "Beef Tartare",
+                "\u00cele Flottante",
+                "Paris-Brest",
+                "Seasonal game dishes (when available)"
+            ],
+            "link": "https://www.bistrotpaulbert.fr/"
+        }
+    ],
+    "activities": [
+        {
+            "day": 1,
+            "morning": "Arrive in Paris, check into accommodation. Enjoy a leisurely Parisian breakfast at a local cafe to settle in and absorb the atmosphere.",
+            "afternoon": "Immerse yourself in art and history at the Louvre Museum (3-4 hours). Pre-book tickets online (\u20ac17-\u20ac22) to save time. Focus on key masterpieces like the Mona Lisa and Venus de Milo. Consider visiting on a Wednesday or Friday if you prefer later closing hours.",
+            "evening": "Head to the Eiffel Tower (2-3 hours) late afternoon (around 4:30 PM - 5:00 PM) to enjoy sunset views from the Trocad\u00e9ro. Ascend the tower (pre-booked tickets recommended, \u20ac11.30 - \u20ac28.30) and stay to witness its sparkling lights show after dark. Dinner: Le Bouillon Chartier (Grands Boulevards) for an authentic, bustling French bistro experience with classic dishes at great value. Take the Metro from the Eiffel Tower area (e.g., Bir-Hakeim) to Grands Boulevards."
+        },
+        {
+            "day": 2,
+            "morning": "Descend into the fascinating and eerie Paris Catacombs (1.5-2 hours). Arrive right at opening (around 9:30 AM, full price with audioguide \u20ac29) to avoid the longest queues. Take the Metro to Denfert-Rochereau.",
+            "afternoon": "Experience the grandeur of the Champs-\u00c9lys\u00e9es & Arc de Triomphe (2-4 hours). Take the Metro from Denfert-Rochereau to Charles de Gaulle - \u00c9toile. Climb the Arc de Triomphe (\u20ac16) for panoramic views of Paris, especially beautiful in the late afternoon. Afterwards, stroll down the iconic Champs-\u00c9lys\u00e9es for some window shopping or a coffee.",
+            "evening": "Indulge in a sophisticated dinner at Frenchie Wine Bar (2nd arr.) around 7:00 PM for innovative small plates and natural wines. Afterwards, experience the world-famous Moulin Rouge Show (2-3 hours, \u20ac100 - \u20ac400+) for a spectacular evening of cabaret and entertainment. Shows typically start at 9 PM and 11 PM; book tickets well in advance. Take the Metro from the Sentier/Bourse area to Blanche for the Moulin Rouge."
+        },
+        {
+            "day": 3,
+            "morning": "Explore the charming Le Marais District (3-5 hours). Wander through historic streets, discover Place des Vosges, browse unique boutiques, and soak in the vibrant atmosphere. Enjoy a casual French lunch or snack in the area.",
+            "afternoon": "Ascend to the artistic heights of Montmartre. From Le Marais (e.g., Saint-Paul Metro), take a Metro to Anvers or Abbesses. Visit the Sacr\u00e9-C\u0153ur Basilica (2-4 hours, basilica free, dome climb \u20ac8) for stunning architecture and panoramic views of Paris. Wander through the bustling Place du Tertre, watch artists at work, and enjoy the bohemian charm of the neighborhood, especially in the late afternoon for sunset.",
+            "evening": "Experience a lively evening at L'Avant Comptoir de la Terre (6th arr.) in the Saint-Germain-des-Pr\u00e9s area. Enjoy exquisite French tapas and a wide selection of natural wines in a vibrant, standing-room-only atmosphere. Take the Metro from Montmartre (e.g., Abbesses) to S\u00e8vres - Babylone or Od\u00e9on."
+        },
+        {
+            "day": 4,
+            "morning": "Enjoy a relaxed morning. Depending on your flight schedule, you could revisit a favorite spot, do some last-minute souvenir shopping, or take a peaceful stroll through the beautiful Jardin du Luxembourg (conveniently close to where you had dinner last night).",
+            "afternoon": "Free time to enjoy a leisurely Parisian cafe experience, visit a smaller museum or gallery that caught your eye, or simply explore a neighborhood at your own pace before heading to the airport for your departure.",
+            "evening": "For your farewell dinner, savor a culinary adventure at Clamato (11th arr.), known for its incredibly fresh, high-quality seafood and innovative preparations in a lively, no-reservation setting. It's a fantastic spot for a memorable final meal. Afterwards, proceed to the airport for your departure from Paris."
+        }
+    ],
+    "localTips": [
+        "Always greet shopkeepers, waiters, and hotel staff with a polite 'Bonjour Monsieur/Madame' (hello Sir/Madam) upon entering and 'Au revoir' (goodbye) when leaving. It's a fundamental sign of respect.",
+        "Master the M\u00e9tro: Paris's subway system is incredibly efficient, extensive, and easy to navigate. Purchase a 'carnet' (book of 10 tickets) or a Navigo D\u00e9couverte pass if staying for a full week (Monday-Sunday).",
+        "Be highly vigilant against pickpockets, especially in crowded tourist hotspots like the Eiffel Tower, Louvre, Montmartre, and on busy M\u00e9tro lines. Keep valuables out of sight and secure.",
+        "While service is included, leaving a small tip (a few euros for a good meal, or rounding up for a coffee) for exceptional service is appreciated but not mandatory like in the US. Credit cards are widely accepted.",
+        "Visit major attractions like the Louvre, Eiffel Tower, and Notre Dame (from outside) either right at opening time or in the late afternoon/early evening to avoid the thickest crowds. Always book tickets online in advance when possible.",
+        "Learn a few key French phrases: 'Bonjour' (hello), 'Merci' (thank you), 'S'il vous pla\u00eet' (please), 'Pardon' (excuse me/sorry), and 'Parlez-vous anglais?' (Do you speak English?). Even a little effort goes a long way.",
+        "Pack comfortable walking shoes! Paris is best explored on foot, and you'll log many miles. Layers are also advisable as the weather can change throughout the day.",
+        "Explore beyond the main tourist areas. Discover the charm of neighborhoods like Le Marais or Canal Saint-Martin for unique boutiques, local cafes, and a more authentic Parisian vibe."
+    ]
+}

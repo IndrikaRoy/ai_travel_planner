@@ -1,0 +1,16 @@
+{
+    "destination": "Tokyo",
+    "duration": 0,
+    "overview": {
+        "totalCost": "5000",
+        "travelers": 1,
+        "startDate": "2025-11-29",
+        "endDate": "2025-12-04"
+    },
+    "transportation": {},
+    "accommodation": {},
+    "attractions": [],
+    "restaurants": [],
+    "activities": [],
+    "localTips": []
+}

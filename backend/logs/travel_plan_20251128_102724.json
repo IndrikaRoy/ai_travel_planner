@@ -1,0 +1,264 @@
+{
+    "destination": "New York ",
+    "duration": 6,
+    "overview": {
+        "totalCost": "5000",
+        "travelers": 4,
+        "startDate": "2025-11-28",
+        "endDate": "2025-12-03"
+    },
+    "transportation": {
+        "flights": {
+            "outbound": {
+                "date": "2025-11-28",
+                "destinationAirports": [
+                    "JFK",
+                    "LGA",
+                    "EWR"
+                ],
+                "estimatedTotalPriceFor4Travelers": "$1400 - $1900",
+                "notes": "Estimated cost for the outbound leg for 4 travelers. Flights on the Friday after Thanksgiving are highly sought after and expensive. Prices are estimates and subject to dynamic changes."
+            },
+            "return": {
+                "date": "2025-12-03",
+                "originAirports": [
+                    "JFK",
+                    "LGA",
+                    "EWR"
+                ],
+                "estimatedTotalPriceFor4Travelers": "$1400 - $1900",
+                "notes": "Estimated cost for the return leg for 4 travelers. Mid-week return might offer slight savings, but still falls within a high-demand travel period."
+            },
+            "estimatedPricePerPersonRoundTrip": "$700 - $950",
+            "totalFlightsEstimate": "$2800 - $3800",
+            "recommendedBookingWindow": "Book 6-10 months in advance due to peak holiday travel dates.",
+            "originAssumption": "Estimated prices are based on round-trip travel from a major US city (e.g., Chicago, Los Angeles, Dallas). Actual prices will vary based on your specific departure city."
+        },
+        "carRental": {
+            "type": "Mid-size SUV (e.g., Toyota RAV4, Honda CR-V) for comfort with 4 travelers and luggage.",
+            "dailyRate": "$80 - $120",
+            "recommendedCompany": "Hertz, Enterprise, Avis, Budget",
+            "totalEstimateForPeriod": "$400 - $600 (for 5 days)",
+            "notes": "Renting a car for getting around Manhattan is generally NOT recommended due to heavy traffic, extremely expensive parking (often $50-$100+ per day), and numerous tolls. This option is more suitable if you plan day trips outside the city or are staying in an outer borough with easier parking options. For city navigation, public transport is superior."
+        },
+        "localTransportation": {
+            "publicTransit": {
+                "options": [
+                    "MTA Subway",
+                    "MTA Bus"
+                ],
+                "paymentSystem": "OMNY (tap-to-pay with credit/debit card or smartphone) or MetroCard",
+                "estimatedCostPerPerson": "$3 - $15 per day (single ride $2.90; a 7-day unlimited pass is $34 and recommended for extensive use)",
+                "notes": "The most efficient, extensive, and cost-effective way to navigate New York City. The system covers all five boroughs. Be prepared for crowds, especially during rush hour."
+            },
+            "rideSharing": {
+                "companies": [
+                    "Uber",
+                    "Lyft"
+                ],
+                "notes": "Widely available throughout NYC. Convenient for direct routes, late-night travel, or when carrying heavy luggage. However, it can be expensive, especially during peak hours, bad weather, or with surge pricing. Consider shared ride options for potential cost savings."
+            },
+            "taxi": {
+                "notes": "Iconic yellow cabs are plentiful, particularly in Manhattan. They operate on regulated fares. Similar to ride-sharing in cost and often available on demand for street hailing."
+            },
+            "airportTransfers": {
+                "JFK": "AirTrain JFK connects to MTA Subway/LIRR for city access.",
+                "LGA": "MTA Bus (e.g., Q70 LaGuardia Link, M60 SBS) connects to Subway/LIRR.",
+                "EWR": "AirTrain Newark connects to NJ Transit trains to Penn Station NYC."
+            }
+        },
+        "budgetSummary": {
+            "totalBudgetProvided": "$5000",
+            "estimatedTotalTransportationCostRange": "$3200 - $4600",
+            "breakdown": {
+                "flights": "$2800 - $3800",
+                "carRental_optional": "$400 - $600",
+                "localTransportation_estimate": "$100 - $200 (for 4 travelers for 5 days)"
+            },
+            "remainingBudgetForAccommodationActivities": "$400 - $1800",
+            "notes": "The provided budget is quite tight for transportation alone for 4 travelers during a peak holiday weekend. Opting out of a rental car and extensively utilizing public transit will be crucial for managing costs and staying within budget for other expenses like accommodation and activities."
+        }
+    },
+    "accommodation": {
+        "hotel": "The Standard, High Line",
+        "location": "Meatpacking District",
+        "pricePerNight": 950,
+        "amenities": [
+            "Rooftop bar (Le Bain & The Top of The Standard)",
+            "Multiple on-site restaurants (The Standard Grill, Caf\u00e9 Standard)",
+            "Direct High Line access",
+            "Fitness center",
+            "Stylish rooms with floor-to-ceiling windows and city/river views",
+            "Live music and DJ events",
+            "24-hour room service"
+        ],
+        "description": "The Standard, High Line is an iconic luxury-boutique hotel perfectly situated in the vibrant Meatpacking District, making it an ideal base for a group of four seeking adventure, culinary delights, and exhilarating nightlife. The hotel is renowned for its direct access to the elevated High Line park, offering unique urban exploration right at your doorstep. Guests can indulge in diverse dining experiences at The Standard Grill or the casual Caf\u00e9 Standard. For an unforgettable night, ascend to the legendary Le Bain rooftop bar or the chic Top of The Standard (The Boom Boom Room) for breathtaking views, exquisite cocktails, and a lively atmosphere. Its prime location provides immediate access to some of NYC's best restaurants, bars, and clubs, ensuring an authentic and dynamic New York adventure."
+    },
+    "attractions": [
+        {
+            "name": "Statue of Liberty & Ellis Island",
+            "type": "Landmark, Historic Site",
+            "duration": "4-5 hours",
+            "cost": "$25 (ferry ticket)",
+            "bestTime": "Morning (9 AM - 12 PM) to avoid peak crowds"
+        },
+        {
+            "name": "The Edge Observation Deck",
+            "type": "Landmark, Observation Deck",
+            "duration": "1.5-2 hours",
+            "cost": "$40-60",
+            "bestTime": "Sunset for breathtaking panoramic views, or early morning for fewer people"
+        },
+        {
+            "name": "Chelsea Market & The High Line",
+            "type": "Market, Urban Park",
+            "duration": "3-5 hours",
+            "cost": "Free (High Line), Variable (food at Chelsea Market)",
+            "bestTime": "Late morning/early afternoon for lunch and a leisurely stroll"
+        },
+        {
+            "name": "Greenwich Village Exploration (Food & Nightlife)",
+            "type": "Neighborhood, Culinary, Nightlife District",
+            "duration": "4-6 hours (evening)",
+            "cost": "Variable (food, drinks, entertainment)",
+            "bestTime": "Evening, starting with dinner and exploring historic bars/music venues"
+        },
+        {
+            "name": "Central Park",
+            "type": "Park, Recreational Area",
+            "duration": "2-4 hours (can be a full day)",
+            "cost": "Free",
+            "bestTime": "Late morning/early afternoon for various activities like walking, biking, or relaxing"
+        },
+        {
+            "name": "Coney Island",
+            "type": "Amusement Park, Beach, Boardwalk",
+            "duration": "4-6 hours",
+            "cost": "Free (beach/boardwalk access), Variable (rides, food)",
+            "bestTime": "Summer afternoons/evenings (Memorial Day to Labor Day) for full experience"
+        },
+        {
+            "name": "Broadway Show (Theater District)",
+            "type": "Entertainment, Theater",
+            "duration": "2.5-3 hours",
+            "cost": "$80-250+ (varies by show and seat)",
+            "bestTime": "Evening (most shows start between 7-8 PM)"
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Katz's Delicatessen",
+            "cuisine": "Jewish Deli",
+            "specialty": "Iconic pastrami and corned beef sandwiches, a true NYC institution since 1888.",
+            "priceRange": "$$$",
+            "mustTry": [
+                "Pastrami on Rye Sandwich",
+                "Matzo Ball Soup",
+                "Knish"
+            ],
+            "link": "https://www.katzsdelicatessen.com/"
+        },
+        {
+            "name": "Joe's Shanghai (Chinatown)",
+            "cuisine": "Shanghainese Chinese",
+            "specialty": "World-famous for their authentic and delicious soup dumplings (Xiao Long Bao).",
+            "priceRange": "$$",
+            "mustTry": [
+                "Pork Soup Dumplings",
+                "Crab & Pork Soup Dumplings",
+                "Scallion Pancakes"
+            ],
+            "link": "https://maps.app.goo.gl/9yQ2cQh3u7qGf5L66"
+        },
+        {
+            "name": "Lombardi's",
+            "cuisine": "Pizzeria",
+            "specialty": "Recognized as America's First Pizzeria, serving classic coal-fired Neapolitan-style pizza since 1905.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Original Coal Oven Pizza (fresh mozzarella, tomato sauce)",
+                "Clam Pie"
+            ],
+            "link": "https://firstpizza.com/"
+        },
+        {
+            "name": "Via Carota",
+            "cuisine": "Italian",
+            "specialty": "Charming and bustling West Village trattoria known for its rustic Tuscan dishes and vibrant atmosphere. Expect a wait, but it's worth it!",
+            "priceRange": "$$$",
+            "mustTry": [
+                "Cacio e Pepe",
+                "Svizzerina (Chopped Steak)",
+                "Artichoke Salad"
+            ],
+            "link": "https://www.viacarota.com/"
+        },
+        {
+            "name": "Mamoun's Falafel (Greenwich Village)",
+            "cuisine": "Middle Eastern, Street Food",
+            "specialty": "A legendary spot for authentic, affordable falafel and shawarma, perfect for a late-night bite.",
+            "priceRange": "$",
+            "mustTry": [
+                "Falafel Sandwich",
+                "Shawarma Sandwich",
+                "Baklava"
+            ],
+            "link": "https://mamouns.com/"
+        },
+        {
+            "name": "The Dead Rabbit",
+            "cuisine": "Irish Pub, Modern American",
+            "specialty": "Multi-award-winning cocktail bar and pub with fantastic food, offering a refined yet lively experience. Great for nightlife and adventurous cocktails.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Irish Coffee",
+                "The Parlor (upstairs for custom cocktails)",
+                "Shepherd's Pie Croquettes",
+                "Lobster Roll"
+            ],
+            "link": "https://deadrabbitnyc.com/"
+        }
+    ],
+    "activities": [
+        {
+            "day": 1,
+            "morning": "Arrive in New York City, check into accommodation, and enjoy a casual breakfast or brunch at a local cafe.",
+            "afternoon": "Explore the vibrant Chelsea Market, enjoying lunch from its diverse food vendors. Afterwards, walk The High Line urban park, admiring the unique architecture and city views (allow 3-5 hours for both).",
+            "evening": "Head to The Edge Observation Deck for breathtaking panoramic sunset views (book tickets in advance for your desired time slot). After, explore the charming streets of Greenwich Village (4-6 hours) and have dinner at Via Carota, known for its rustic Italian dishes (expect a wait or make reservations if possible)."
+        },
+        {
+            "day": 2,
+            "morning": "Take an early ferry (9 AM recommended) to visit the iconic Statue of Liberty and Ellis Island. Allow 4-5 hours to explore both historic landmarks.",
+            "afternoon": "Upon returning, explore Lower Manhattan. Walk through the Financial District, see Wall Street and the Charging Bull, and visit the solemn 9/11 Memorial & Museum (optional, add 2-3 hours).",
+            "evening": "Immerse yourself in the bustling atmosphere of Chinatown and enjoy dinner at Joe's Shanghai, world-famous for their authentic soup dumplings. Alternatively, walk to nearby Little Italy for a classic coal-fired pizza at Lombardi's."
+        },
+        {
+            "day": 3,
+            "morning": "Spend the morning exploring the vast and beautiful Central Park (2-4 hours). Enjoy a leisurely stroll, rent a rowboat on The Lake, or visit iconic spots like Bethesda Terrace and Strawberry Fields.",
+            "afternoon": "Continue to enjoy Central Park or venture to explore the surrounding Upper West Side or Upper East Side. In the late afternoon, make your way to Times Square and the Theater District.",
+            "evening": "Enjoy dinner at a restaurant in the lively Theater District, followed by experiencing a world-renowned Broadway Show. (Ensure to book show tickets well in advance)."
+        },
+        {
+            "day": 4,
+            "morning": "Embark on an adventure to Coney Island in Brooklyn. Take the subway and spend the late morning enjoying the beach, walking the famous boardwalk, and experiencing classic amusement park rides (seasonal, 4-6 hours).",
+            "afternoon": "Continue enjoying Coney Island, perhaps grabbing a hot dog from the original Nathan's Famous. Head back to Manhattan in the late afternoon.",
+            "evening": "Indulge in an iconic New York City culinary experience with dinner at Katz's Delicatessen in the Lower East Side, famous for its pastrami and corned beef sandwiches. Explore the vibrant nightlife of the Lower East Side if energy permits."
+        },
+        {
+            "day": 5,
+            "morning": "Enjoy a relaxed morning exploring the charming streets and unique boutiques of SoHo and NoHo. Grab brunch at one of the many stylish local caf\u00e9s.",
+            "afternoon": "Visit Washington Square Park in Greenwich Village, soak in the bohemian atmosphere, and enjoy some last-minute souvenir shopping or revisit a favorite spot.",
+            "evening": "Enjoy a farewell dinner at a local favorite, perhaps revisiting a neighborhood you particularly enjoyed, before heading to the airport for your departure."
+        }
+    ],
+    "localTips": [
+        "Master the NYC subway: it's efficient and often faster than taxis. Use OMNY with your contactless card/phone or get a MetroCard. Stand clear of doors and let people exit first.",
+        "Walk with purpose and keep right on sidewalks. New Yorkers move fast; if you need to stop, step to the side to avoid blocking foot traffic. Tipping 15-20% for service is customary.",
+        "Comfortable walking shoes are non-negotiable! You'll explore extensively on foot. Layers are also recommended as indoor and outdoor temperatures can vary greatly.",
+        "Visit popular attractions like museums, observation decks, and major parks right at opening time or late in the evening to beat the biggest crowds and lines.",
+        "Be street smart: keep an eye on your belongings, especially in crowded areas. While generally safe, maintain situational awareness and avoid walking alone late at night in unfamiliar areas.",
+        "Venture beyond Manhattan! Explore the unique neighborhoods of Brooklyn (e.g., Williamsburg, Dumbo) or Queens (e.g., Long Island City for stunning skyline views) for diverse culture and food.",
+        "Expect a sales tax added to most purchases (currently 8.875% in NYC) that isn't included in the sticker price. Cash is useful for small vendors, but credit cards are widely accepted.",
+        "Don't ask for a 'regular coffee' unless you want milk and sugar! Be specific about your order. And definitely try a classic New York bagel and pizza slice."
+    ]
+}

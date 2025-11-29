@@ -1,0 +1,185 @@
+{
+    "destination": "Paris",
+    "duration": 0,
+    "overview": {
+        "totalCost": "3500",
+        "travelers": 3,
+        "startDate": "2025-11-28",
+        "endDate": "2025-12-03"
+    },
+    "transportation": {
+        "flights": {
+            "outbound": "Flight to Paris - $450/person",
+            "return": "Return flight - $480/person"
+        },
+        "carRental": "Compact SUV - $65/day",
+        "localTransportation": "Public transit and ride-sharing available"
+    },
+    "accommodation": {
+        "hotel": "The Hoxton Paris",
+        "location": "2nd Arrondissement (near Grands Boulevards)",
+        "pricePerNight": 680,
+        "amenities": [
+            "Stylish cocktail bar (Jacques' Bar)",
+            "Lively French brasserie (Rivi\u00e9)",
+            "Inner courtyard and terrace",
+            "Co-working spaces and lobby lounge with regular DJ sets/events",
+            "Free Wi-Fi",
+            "24-hour reception",
+            "Concierge services",
+            "Rooms with unique design and comfortable beds",
+            "Fitness room access (nearby partnership)"
+        ],
+        "description": "The Hoxton Paris offers a stylish and vibrant stay in the heart of the 2nd Arrondissement, perfect for travelers seeking both adventure and lively nightlife. Housed in an 18th-century residence, it beautifully blends historic charm with contemporary design. Its bustling bars and restaurants are popular hotspots, often featuring live music or DJ sets, making it an excellent base for experiencing Parisian evenings. From this central location, guests can easily explore trendy neighborhoods like Le Marais, enjoy the Grands Boulevards' entertainment, and discover hidden gems, ensuring a dynamic and memorable trip. Rooms such as 'Biggy' or 'Roomy' are ideal for accommodating three travelers comfortably."
+    },
+    "attractions": [
+        {
+            "name": "Eiffel Tower",
+            "type": "Landmark",
+            "duration": "2-3 hours",
+            "cost": "~\u20ac20-30",
+            "bestTime": "Late afternoon to evening (for sunset and city lights)"
+        },
+        {
+            "name": "Catacombs of Paris",
+            "type": "Historical Site/Underground Attraction",
+            "duration": "1.5-2 hours",
+            "cost": "~\u20ac29 (online reservation recommended)",
+            "bestTime": "Morning or early afternoon (to avoid longest queues)"
+        },
+        {
+            "name": "Moulin Rouge Show",
+            "type": "Entertainment/Cabaret",
+            "duration": "2-3 hours",
+            "cost": "~\u20ac100-250+ (show only or show + dinner)",
+            "bestTime": "Evening"
+        },
+        {
+            "name": "Montmartre & Sacr\u00e9-C\u0153ur",
+            "type": "Neighborhood/Landmark",
+            "duration": "2-4 hours",
+            "cost": "Free (church entry); drinks/food extra",
+            "bestTime": "Late afternoon to evening (for sunset views and lively nightlife)"
+        },
+        {
+            "name": "Seine River Evening Cruise",
+            "type": "Activity/Sightseeing",
+            "duration": "1-1.5 hours",
+            "cost": "~\u20ac15-20",
+            "bestTime": "Sunset/Evening (to see illuminated monuments)"
+        },
+        {
+            "name": "P\u00e8re Lachaise Cemetery",
+            "type": "Cemetery/Historical Site",
+            "duration": "2-3 hours",
+            "cost": "Free",
+            "bestTime": "Morning/Early afternoon (for quiet exploration of its vast grounds)"
+        },
+        {
+            "name": "Exploring Paris Nightlife Districts",
+            "type": "Activity/Nightlife",
+            "duration": "3-5+ hours",
+            "cost": "Varies (drinks/entry fees)",
+            "bestTime": "Late evening into the night (e.g., Le Marais, Bastille, Pigalle for bars and clubs)"
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Bouillon Pigalle",
+            "cuisine": "Traditional French",
+            "specialty": "Affordable, authentic French comfort food in a vibrant, historic setting. Known for its lively atmosphere and quick service, perfect for a bustling Parisian experience.",
+            "priceRange": "$",
+            "mustTry": [
+                "Escargots",
+                "French Onion Soup (Soupe \u00e0 l'oignon gratin\u00e9e)",
+                "Steak Frites",
+                "Blanquette de Veau",
+                "Profiteroles"
+            ]
+        },
+        {
+            "name": "Le Relais de l'Entrec\u00f4te (Multiple locations, e.g., Saint-Germain-des-Pr\u00e9s)",
+            "cuisine": "French (Steak Frites)",
+            "specialty": "A unique concept serving one main dish only: trimmed sirloin steak with their famous secret sauce, unlimited crispy frites, and a simple green salad. Efficient service and a lively, focused dining experience.",
+            "priceRange": "$$",
+            "mustTry": [
+                "The only dish: Entrec\u00f4te Steak with Secret Sauce and unlimited Frites",
+                "Vins de la Maison (house wine)",
+                "Profiteroles or Cr\u00e8me Br\u00fbl\u00e9e for dessert"
+            ]
+        },
+        {
+            "name": "Bistro Paul Bert",
+            "cuisine": "Traditional French Bistro",
+            "specialty": "Renowned for its classic, generous, and perfectly executed French bistro dishes, exceptional quality ingredients, and a lively, authentic Parisian ambiance. A true local favorite.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Steak au Poivre (pepper steak)",
+                "Oysters (seasonal)",
+                "P\u00e2t\u00e9 en Cro\u00fbte",
+                "Paris-Brest",
+                "Grand Marnier Souffl\u00e9"
+            ]
+        },
+        {
+            "name": "Frenchie Wine Bar",
+            "cuisine": "Modern French / Small Plates",
+            "specialty": "A popular, bustling spot for creative small plates designed for sharing, an extensive natural wine list, and a vibrant, unpretentious atmosphere. No reservations, which adds to the adventure!",
+            "priceRange": "$$-$$$",
+            "mustTry": [
+                "Daily changing creative small plates (e.g., house-made charcuterie, seasonal vegetable dishes, inventive seafood or meat preparations)",
+                "Explore their natural wine selection"
+            ]
+        },
+        {
+            "name": "Septime",
+            "cuisine": "Modern French",
+            "specialty": "A Michelin-starred pioneer in modern French cuisine, known for its innovative, vegetable-forward, and seasonally driven tasting menus, served in a minimalist, industrial-chic setting. Securing a reservation is an adventure in itself!",
+            "priceRange": "$$$",
+            "mustTry": [
+                "Chef's Tasting Menu (changes frequently based on the freshest seasonal ingredients)"
+            ]
+        }
+    ],
+    "activities": [
+        {
+            "day": 1,
+            "morning": "Arrive in Paris, check into your accommodation, and settle in. Take a leisurely stroll around your neighborhood to get acquainted with the Parisian atmosphere and grab a croissant and coffee at a local patisserie.",
+            "afternoon": "Head towards the Trocad\u00e9ro for stunning initial views of the Eiffel Tower from across the Seine. Walk through the Champ de Mars for different perspectives and photo opportunities, soaking in the iconic landmark.",
+            "evening": "Experience the majestic **Eiffel Tower**. Ensure you have pre-booked tickets (essential!) for a late afternoon/sunset slot to witness the city transform with the golden hour and then sparkle with evening lights. Afterwards, embark on a **Seine River Evening Cruise** to see Paris's illuminated monuments from the water. Dinner recommendation: Enjoy a classic French meal at **Le Relais de l'Entrec\u00f4te** (Saint-Germain-des-Pr\u00e8s location), famous for its single-dish menu of steak frites with secret sauce."
+        },
+        {
+            "day": 2,
+            "morning": "Dive into the mysterious **Catacombs of Paris**. Pre-booking your tickets online for an early morning slot is highly recommended to avoid the longest queues and ensure entry. Allow 1.5-2 hours for this unique underground experience.",
+            "afternoon": "After the Catacombs, emerge into the charming Latin Quarter. Explore the historic streets, visit the Pantheon (exterior or interior), and relax in the beautiful Luxembourg Gardens. Enjoy a coffee or gelato in Saint-Germain-des-Pr\u00e8s.",
+            "evening": "Dinner recommendation: Indulge in authentic, generous French bistro fare at **Bistro Paul Bert** (reservations highly recommended). Afterwards, immerse yourself in **Exploring Paris Nightlife Districts** in the vibrant Bastille or Le Marais areas, which are relatively close to Bistro Paul Bert, offering a wide array of bars and pubs."
+        },
+        {
+            "day": 3,
+            "morning": "Start your day with a contemplative visit to **P\u00e8re Lachaise Cemetery**. This vast, tranquil necropolis is home to many famous figures (Oscar Wilde, Jim Morrison, Chopin) and offers beautiful architecture and lush greenery. Allow 2-3 hours to explore.",
+            "afternoon": "Journey to the bohemian heart of Paris, **Montmartre**. Climb to the stunning **Sacr\u00e9-C\u0153ur Basilica** for panoramic views of the city. Wander through Place du Tertre, watch the artists at work, and explore the charming, winding streets. Aim for late afternoon to catch the sunset from the basilica steps.",
+            "evening": "Dinner recommendation: Enjoy a lively and affordable traditional French meal at **Bouillon Pigalle**, located at the foot of Montmartre. Following dinner, experience the glitz and glamour of a **Moulin Rouge Show** (pre-booked tickets are essential, often weeks in advance), conveniently located just a short walk from Bouillon Pigalle."
+        },
+        {
+            "day": 4,
+            "morning": "Spend the morning exploring the trendy and historic **Le Marais district**. Discover hidden courtyards, unique boutiques, art galleries, and the elegant Place des Vosges, Paris's oldest planned square.",
+            "afternoon": "Enjoy a more relaxed afternoon. Perhaps visit a specific museum that interests you (e.g., Picasso Museum in Le Marais, or a smaller, less crowded gallery), or simply enjoy some caf\u00e9 hopping and people-watching.",
+            "evening": "Dinner recommendation: For an exceptional modern French culinary experience, attempt to secure a highly sought-after reservation at **Septime** (note: reservations often require booking months in advance). If Septime is not possible, a fantastic alternative is **Frenchie Wine Bar** for creative small plates and natural wines (expect to queue as they do not take reservations). Afterwards, enjoy a final taste of Parisian nightlife with casual drinks in the 2nd or 11th arrondissement, depending on your dinner location."
+        },
+        {
+            "day": 5,
+            "morning": "Enjoy a final leisurely Parisian breakfast at a local caf\u00e9. Depending on your flight schedule, you might have time for some last-minute souvenir shopping or a revisit to a favorite spot for one last look.",
+            "afternoon": "Check out from your accommodation and make your way to the airport for your departure. Reflect on your wonderful memories of Paris!",
+            "evening": "Departure from Paris."
+        }
+    ],
+    "localTips": [
+        "Always greet shopkeepers and locals with a 'Bonjour' or 'Bonsoir' and a 'Merci' when leaving; a little French goes a long way.",
+        "Invest in a Navigo D\u00e9couverte pass if staying a week or more; it's the most cost-effective way to use the excellent Metro and bus system.",
+        "Be extremely vigilant against pickpockets, especially in crowded tourist areas and on the Metro; keep valuables secured and out of sight.",
+        "Carry some euros for smaller purchases, but rely on credit cards (notify your bank before travel) for larger transactions to avoid poor exchange rates.",
+        "Book popular attractions like the Eiffel Tower and Louvre online well in advance, and visit them first thing in the morning or late afternoon to avoid peak crowds.",
+        "Pack comfortable walking shoes \u2013 Paris is best explored on foot \u2013 and layers, as the weather can change quickly, along with a compact umbrella.",
+        "Beyond the main sights, explore less-traveled neighborhoods like Le Marais or Canal Saint-Martin, and always look up to appreciate the stunning architecture."
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "destination": "Delhi",
+    "duration": 0,
+    "overview": {
+        "totalCost": "4500",
+        "travelers": 1,
+        "startDate": "2025-11-28",
+        "endDate": "2025-12-01"
+    },
+    "transportation": {
+        "flights": {
+            "outbound": {
+                "date": "2025-11-28",
+                "origin": "JFK (John F. Kennedy International Airport, New York)",
+                "destination": "DEL (Indira Gandhi International Airport, Delhi)",
+                "estimatedPriceRangeUSD": "800-1400",
+                "notes": "Prices are estimates for economy class and can vary based on your actual origin city, booking time, airline, and layovers. Consider major airlines like Air India, Emirates, Qatar Airways, United, or European carriers for connections."
+            },
+            "return": {
+                "date": "2025-12-01",
+                "origin": "DEL (Indira Gandhi International Airport, Delhi)",
+                "destination": "JFK (John F. Kennedy International Airport, New York)",
+                "estimatedPriceRangeUSD": "800-1400",
+                "notes": "Prices are estimates for economy class and can vary based on your actual origin city, booking time, airline, and layovers."
+            }
+        },
+        "carRental": {
+            "typeOfCar": "Compact SUV (e.g., Hyundai Creta, Maruti Brezza) or Mid-size Sedan (e.g., Honda City, Maruti Ciaz)",
+            "dailyRateRangeUSD": "40-70",
+            "recommendedCompanies": [
+                "Hertz India",
+                "Avis India",
+                "Zoomcar (local Indian company for self-drive rentals)"
+            ],
+            "notes": "Self-driving in Delhi traffic can be challenging for unfamiliar drivers due to dense traffic, different driving rules, and limited parking. For convenience, especially for tourists, it's often more practical and efficient to hire a car with a driver (available via local taxi services or apps like Uber/Ola for hourly bookings) rather than self-drive. Daily rates typically include basic insurance; always check coverage details and excess fees."
+        },
+        "localTransportation": {
+            "publicTransit": {
+                "metro": {
+                    "name": "Delhi Metro",
+                    "description": "An extensive, modern, and efficient rail network covering most parts of Delhi and the National Capital Region (NCR). It's the best way to navigate the city and avoid traffic. Look for tourist cards or use tokens for individual rides.",
+                    "costEstimate": "Low (e.g., $0.30 - $1.00 per ride)"
+                },
+                "buses": {
+                    "name": "Delhi Transport Corporation (DTC) Buses",
+                    "description": "A widespread bus network, very economical but can be crowded and confusing for first-time visitors. Not typically recommended for tourists unless with a local guide.",
+                    "costEstimate": "Very Low (e.g., $0.05 - $0.50 per ride)"
+                }
+            },
+            "rideSharing": {
+                "apps": [
+                    "Uber",
+                    "Ola (local Indian equivalent of Uber)"
+                ],
+                "description": "Widely available, convenient, and affordable for point-to-point travel. Both apps offer various car types (sedans, SUVs) and auto-rickshaws (Uber Auto / Ola Auto). Cash payment options are usually available in addition to digital payments.",
+                "costEstimate": "Moderate (e.g., $2 - $10 for most within-city rides, depending on distance, traffic, and vehicle type)"
+            },
+            "otherOptions": [
+                {
+                    "type": "Auto-rickshaws (Tuk-tuks)",
+                    "description": "Iconic three-wheeled vehicles, excellent for short distances, especially in congested areas. Always agree on the fare beforehand or insist on using the meter (though many drivers may refuse for tourists). Ride-sharing apps also offer auto-rickshaw options for fixed pricing.",
+                    "costEstimate": "Low (e.g., $1 - $4 for short rides)"
+                },
+                {
+                    "type": "Pre-paid Taxis",
+                    "description": "Available at the airport (Indira Gandhi International Airport, DEL) for hassle-free transfers to your accommodation. Fixed rates ensure no haggling.",
+                    "costEstimate": "Moderate (e.g., $8 - $15 for airport to city center)"
+                }
+            ],
+            "generalAdvice": "For efficient travel between major attractions, the Delhi Metro is highly recommended. For door-to-door convenience, especially during evenings or for luggage, Uber/Ola are excellent choices. Taxis and auto-rickshaws are plentiful but require fare negotiation if not booked via an app."
+        }
+    },
+    "accommodation": {
+        "hotel": "The Leela Palace New Delhi",
+        "location": "Chanakyapuri (Diplomatic Enclave)",
+        "pricePerNight": 850,
+        "amenities": [
+            "Award-winning fine dining restaurants (Indian, Italian, International)",
+            "Rooftop temperature-controlled infinity pool with city views",
+            "World-class ESPA spa and wellness treatments",
+            "State-of-the-art fitness center with personal trainers",
+            "Luxury shopping arcade within the hotel premises",
+            "Dedicated 24-hour personal butler service",
+            "Concierge to arrange bespoke cultural, historical, culinary, and adventure tours",
+            "Luxurious and spacious rooms with modern amenities and city/garden views",
+            "Club Lounge access (for select rooms) offering complimentary breakfast and evening cocktails",
+            "Lush, landscaped gardens for tranquil relaxation",
+            "High-speed Wi-Fi access",
+            "Multiple elegant bars and lounges for evening entertainment"
+        ],
+        "description": "The Leela Palace New Delhi is an exquisite blend of traditional Indian grandeur and modern luxury, perfect for a discerning traveler with diverse interests. Located in the serene diplomatic enclave of Chanakyapuri, it offers a peaceful retreat while being strategically positioned for easy access to Delhi's vibrant attractions. For 'Culture' and 'History' enthusiasts, the hotel's concierge can arrange private tours to iconic sites like Humayun's Tomb, Qutub Minar, and India Gate, all within a short drive. 'Food' lovers will delight in its array of award-winning restaurants, including the renowned Jamavar for Indian cuisine and Le Cirque for exquisite Italian fare, alongside easy access to Delhi's culinary hotspots. 'Nature' and 'Relaxation' are catered to with its lush gardens, a stunning rooftop infinity pool offering panoramic views, and a world-class ESPA spa. For 'Shopping' and 'Nightlife,' the hotel houses luxury boutiques and its sophisticated bars, while its central location puts you minutes away from high-end malls and bustling markets like Khan Market, as well as upscale nightlife venues. For 'Adventure' (urban exploration style), the hotel can organize curated experiences like heritage walks or cooking classes. This hotel promises an unparalleled stay, ensuring every interest is met with utmost luxury and impeccable service."
+    },
+    "attractions": [
+        {
+            "name": "Qutub Minar Complex",
+            "type": "Landmark, UNESCO World Heritage Site",
+            "duration": "2-3 hours",
+            "cost": "Indian: \u20b940, Foreigners: \u20b9600",
+            "bestTime": "Morning (cooler, less crowded) or late afternoon."
+        },
+        {
+            "name": "Humayun's Tomb",
+            "type": "Landmark, UNESCO World Heritage Site",
+            "duration": "1.5-2.5 hours",
+            "cost": "Indian: \u20b940, Foreigners: \u20b9600",
+            "bestTime": "Morning (cooler, less crowded) or late afternoon for golden hour photography."
+        },
+        {
+            "name": "Old Delhi Exploration (Chandni Chowk & Jama Masjid)",
+            "type": "Market, Cultural Hub, Food Street, Landmark",
+            "duration": "3-4 hours (can extend with food/shopping)",
+            "cost": "Jama Masjid: Free (camera charge \u20b9300), Chandni Chowk: Varies based on shopping/food.",
+            "bestTime": "Late morning to afternoon for markets/food; early evening for a different vibe. Avoid Sundays if possible (extra crowded)."
+        },
+        {
+            "name": "Sunder Nursery",
+            "type": "Heritage Park, Nature, Relaxation",
+            "duration": "2-3 hours",
+            "cost": "Indian: \u20b950, Foreigners: \u20b9200",
+            "bestTime": "Morning or late afternoon, especially during pleasant weather seasons (Oct-Mar)."
+        },
+        {
+            "name": "Dilli Haat (INA)",
+            "type": "Market, Cultural Hub, Food Court",
+            "duration": "2-3 hours",
+            "cost": "Indian: \u20b9100, Foreigners: \u20b9100",
+            "bestTime": "Evening, especially on weekends for live performances and a lively atmosphere."
+        },
+        {
+            "name": "Hauz Khas Village & Deer Park",
+            "type": "Urban Village, Historical Site, Nature Park, Nightlife Hub",
+            "duration": "3-4 hours (can extend into evening for nightlife)",
+            "cost": "Free (for village and park entrance, activities/food/drinks extra).",
+            "bestTime": "Late afternoon for ruins/park, leading into the evening for food and nightlife."
+        },
+        {
+            "name": "Agrasen ki Baoli",
+            "type": "Stepwell, Historical Site, Architecture, Hidden Gem",
+            "duration": "1 hour",
+            "cost": "Free",
+            "bestTime": "Morning or late afternoon for good light and fewer crowds."
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Karim's",
+            "cuisine": "Mughlai",
+            "specialty": "A historic eatery (since 1913) in Old Delhi, famous for its rich Mughlai curries, kebabs, and a truly authentic, bustling atmosphere.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Mutton Nihari",
+                "Chicken Jahangiri",
+                "Seekh Kebab",
+                "Mutton Korma",
+                "Brain Curry (Magaz Nihari)",
+                "Shahi Tukda"
+            ]
+        },
+        {
+            "name": "Bukhara (ITC Maurya)",
+            "cuisine": "North-West Frontier (Indian)",
+            "specialty": "Globally recognized, iconic restaurant known for its rustic ambiance, open kitchen, and legendary dishes cooked in traditional clay ovens.",
+            "priceRange": "$$$",
+            "mustTry": [
+                "Dal Bukhara",
+                "Sikandari Raan (slow-cooked leg of lamb)",
+                "Murgh Malai Kebab",
+                "Paneer Khurchan",
+                "Pudina Paratha"
+            ]
+        },
+        {
+            "name": "Indian Accent",
+            "cuisine": "Modern Indian",
+            "specialty": "An acclaimed fine-dining restaurant offering an innovative and creative take on Indian cuisine with a global twist.",
+            "priceRange": "$$$",
+            "mustTry": [
+                "Blue Cheese Naan",
+                "Pork Belly with Meetha Achaar",
+                "Ghee Roast Soya Boti",
+                "Duck Khurchan",
+                "Warm Daulat Ki Chaat"
+            ]
+        },
+        {
+            "name": "Cafe Lota",
+            "cuisine": "Regional Indian",
+            "specialty": "Located within the National Crafts Museum, this charming cafe offers unique regional Indian dishes from across the country in a serene, artistic setting.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Palak Patta Chaat",
+                "Sabudana Popcorn",
+                "Assamese Laksa",
+                "Bhapa Doi Cheesecake",
+                "Kokum Sherbet"
+            ]
+        },
+        {
+            "name": "AMA Cafe",
+            "cuisine": "Tibetan, Nepalese, Cafe",
+            "specialty": "A popular, cozy cafe in Majnu-ka-Tilla (Delhi's 'Little Tibet') known for its delicious comfort food, baked goods, and vibrant atmosphere.",
+            "priceRange": "$",
+            "mustTry": [
+                "Chicken Momos",
+                "Thukpa",
+                "Shapta",
+                "Caramel Cheesecake",
+                "Hot Chocolate"
+            ]
+        },
+        {
+            "name": "Laxman Fast Food (Dhaba Style)",
+            "cuisine": "North Indian Street Food, Punjabi",
+            "specialty": "A very popular, unpretentious dhaba-style eatery near Qutub Minar, perfect for quick, delicious, and authentic local bites.",
+            "priceRange": "$",
+            "mustTry": [
+                "Aloo Paratha with white butter",
+                "Paneer Paratha",
+                "Maggi Noodles (various preparations)",
+                "Kadak Chai",
+                "Omelette Sandwich"
+            ]
+        }
+    ],
+    "activities": [
+        {
+            "day": 1,
+            "morning": "Begin your Delhi journey at the majestic Qutub Minar Complex (9:00 AM - 11:30 AM). Explore this UNESCO World Heritage Site, marveling at the towering minaret and ancient ruins. Allow 2-3 hours. Afterward, travel to Humayun's Tomb (approx. 30-45 min travel).",
+            "afternoon": "Visit Humayun's Tomb (1:00 PM - 3:00 PM), another splendid UNESCO site, known for its beautiful Mughal architecture. Spend 1.5-2.5 hours here. Immediately adjacent, discover the serene Sunder Nursery (3:30 PM - 5:30 PM), a revitalized heritage park perfect for a relaxing stroll amidst lush greenery and historical monuments. Allow 2-3 hours.",
+            "evening": "Unwind with dinner at Cafe Lota (inside the National Crafts Museum, not far from Sunder Nursery/Humayun's Tomb area). This charming cafe is renowned for its unique regional Indian dishes served in an artistic and peaceful ambiance. (Dinner recommendation: Cafe Lota)"
+        },
+        {
+            "day": 2,
+            "morning": "Start your day with a visit to Agrasen ki Baoli (9:30 AM - 10:30 AM), an ancient stepwell that provides a fascinating architectural experience and a quiet escape. Allow 1 hour. From here, travel to Old Delhi (approx. 20-30 min travel) for a complete cultural immersion.",
+            "afternoon": "Embark on an extensive Old Delhi Exploration (11:30 AM - 4:00 PM). Begin with Jama Masjid, one of India's largest mosques. Afterwards, lose yourself in the labyrinthine lanes of Chandni Chowk, sampling iconic street food, exploring traditional bazaars, and experiencing the vibrant pulse of the city. This experience can easily extend for 3-4 hours or more.",
+            "evening": "Conclude your Old Delhi adventure with an authentic Mughlai dinner at Karim's (around 6:00 PM - 7:30 PM). Located in the heart of Old Delhi, this historic eatery is famous for its rich curries, kebabs, and traditional dining experience. (Dinner recommendation: Karim's)"
+        },
+        {
+            "day": 3,
+            "morning": "Immerse yourself in the bohemian charm of Hauz Khas Village & Deer Park (10:00 AM - 1:00 PM). Explore the historical ruins, enjoy a leisurely walk in the adjacent Deer Park, and soak in the artistic and urban village atmosphere. Allow 3-4 hours. You can grab lunch at one of the many cafes in the village.",
+            "afternoon": "Head to Dilli Haat (INA) (3:30 PM - 6:30 PM), a vibrant open-air market showcasing handicrafts, food, and cultural performances from various Indian states. It's an excellent spot for souvenir shopping and experiencing India's diverse cultural tapestry. Allow 2-3 hours.",
+            "evening": "For your final evening, enjoy a diverse culinary journey at Dilli Haat itself. The numerous food stalls offer authentic dishes from across India, providing a unique opportunity to sample a wide array of regional cuisines in a lively setting. (Dinner recommendation: Dilli Haat food stalls)"
+        }
+    ],
+    "localTips": [
+        "Always dress modestly, especially when visiting religious sites like temples or mosques, and remember to remove your shoes before entering.",
+        "Utilize the Delhi Metro for efficient travel; for cabs and auto-rickshaws, use ride-sharing apps like Uber or Ola to avoid overcharging and ensure safety.",
+        "Drink bottled water, avoid tap water, and always be aware of your surroundings, especially in crowded markets, to prevent petty theft.",
+        "While ATMs are common, carry small denominations of Indian Rupees for local markets and auto-rickshaws, and embrace UPI (digital payments) which is widely accepted.",
+        "Plan outdoor sightseeing for mornings or late afternoons, especially during the hot months; October to March offers the most pleasant weather for exploring.",
+        "Learn a few basic Hindi phrases like \"Namaste\" (hello), \"Dhanyawad\" (thank you), and \"Kitne ka hai?\" (How much is this?) \u2013 it goes a long way with locals.",
+        "Pack lightweight, breathable clothing (cotton or linen), comfortable walking shoes, a scarf for women (for religious sites and sun protection), and sunscreen.",
+        "Explore Old Delhi's Chandni Chowk early morning for an unforgettable culinary journey and a glimpse into the city's vibrant historical pulse."
+    ]
+}

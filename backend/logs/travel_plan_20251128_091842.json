@@ -1,0 +1,282 @@
+{
+    "destination": "universal studios hollywood florida",
+    "duration": 8,
+    "overview": {
+        "totalCost": "7000",
+        "travelers": 3,
+        "startDate": "2025-12-25",
+        "endDate": "2026-01-01"
+    },
+    "transportation": {
+        "flights": [
+            {
+                "type": "outbound",
+                "date": "2025-12-25",
+                "origin": "[Your Origin City/Airport - Please Specify]",
+                "destination": "Orlando International Airport (MCO)",
+                "estimatedPricePerPerson": 800,
+                "estimatedTotalPrice": 2400,
+                "notes": "Prices are estimates for domestic flights during the peak Christmas/New Year's travel season. Actual costs can vary significantly based on origin, booking time, and airline. Booking as early as possible is highly recommended to secure better rates."
+            },
+            {
+                "type": "return",
+                "date": "2026-01-01",
+                "origin": "Orlando International Airport (MCO)",
+                "destination": "[Your Origin City/Airport - Please Specify]",
+                "estimatedPricePerPerson": 800,
+                "estimatedTotalPrice": 2400,
+                "notes": "Prices are estimates for domestic flights during the peak Christmas/New Year's travel season. Actual costs can vary significantly based on origin, booking time, and airline. Booking as early as possible is highly recommended to secure better rates."
+            }
+        ],
+        "carRental": {
+            "type": "Standard SUV / Mid-size SUV (for 3 people + luggage)",
+            "dailyRateEstimated": 120,
+            "totalRentalCostEstimated": 840,
+            "recommendedCompany": "Hertz, Enterprise, Avis, National, Budget, Alamo",
+            "notes": "A rental car provides the most flexibility for exploring Orlando and getting to Universal Studios, especially with 3 travelers. Prices for peak season can be higher. This estimate does not include fuel, tolls (common in Orlando), or parking fees at Universal ($30+/day). Booking well in advance is crucial for availability and better rates during this period."
+        },
+        "localTransportation": {
+            "publicTransit": {
+                "available": "Limited direct access for tourists to Universal Resort.",
+                "options": [
+                    "LYNX Bus: Orlando's public bus system. Connects MCO to various areas in Orlando, but usually requires transfers and takes significantly longer to reach Universal than private transport.",
+                    "I-RIDE Trolley: Serves the International Drive resort area, but does not go directly to Universal's main entrance. Useful if staying along I-Drive for local attractions."
+                ],
+                "notes": "Public transit is generally not recommended for convenience or efficiency for tourists traveling to Universal Studios Florida, especially with a group and during a short visit. It is a more budget-friendly but time-consuming option."
+            },
+            "rideSharing": {
+                "available": true,
+                "options": [
+                    "Uber",
+                    "Lyft"
+                ],
+                "estimatedCostPerRideToUniversalFromMCO": "$35 - $55 (standard car, one-way, excluding surge pricing)",
+                "estimatedDailyUseCost": "$40 - $80 (if used for multiple daily trips to/from Universal and other local destinations)",
+                "notes": "Ride-sharing services are readily available and offer convenient door-to-door service. However, during peak times (park opening/closing, holidays), surge pricing can significantly increase costs. A week of frequent ride-sharing could approach or exceed the cost of a rental car, especially considering Universal's parking fees if you're comparing."
+            },
+            "universalShuttles": {
+                "available": "Yes, from official Universal partner hotels.",
+                "notes": "If you choose to stay at one of Universal's official hotels, dedicated shuttle services (bus or water taxi) are often provided free of charge, offering excellent access to the parks and Universal CityWalk. This could eliminate the need for a rental car for park access, though you'd still need airport transfers."
+            }
+        },
+        "overallBudgetAssessment": {
+            "status": "Feasible, with careful planning and early booking",
+            "notes": "The total estimated cost for flights and car rental is approximately $3240 ($2400 flights + $840 car rental). This leaves a significant portion of your $7000 budget for additional transportation costs (fuel, parking, tolls) and other trip expenses (accommodation, park tickets, food, etc.). Given the peak travel dates, securing flights and car rental *immediately* will be critical to staying within this budget and ensuring availability. Prices are highly volatile for this travel period."
+        }
+    },
+    "accommodation": {
+        "hotel": "Hard Rock Hotel at Universal Orlando Resort",
+        "location": "Universal Orlando Resort, Orlando, Florida",
+        "pricePerNight": 925,
+        "amenities": [
+            "Unlimited Universal Express Pass (complimentary for guests, valid at select attractions in Universal Studios Florida and Islands of Adventure)",
+            "Early Park Admission to Universal Orlando theme parks (valid theme park admission required)",
+            "Walking distance to Universal Studios Florida, Islands of Adventure, and Universal CityWalk",
+            "Water taxi and shuttle bus service to all Universal Orlando Resort theme parks and CityWalk",
+            "Award-winning 12,000 sq. ft. pool with a sand beach, two hot tubs, 260-foot water slide, and underwater music",
+            "Multiple on-site restaurants and lounges (including The Kitchen, Palm Restaurant, Velvet Bar)",
+            "Fitness center",
+            "Live music and entertainment (select nights)",
+            "Rock Shop",
+            "Room service",
+            "Complimentary Wi-Fi",
+            "Priority seating at select Universal Orlando restaurants"
+        ],
+        "description": "Experience a rock-star vacation at the iconic Hard Rock Hotel, the perfect base for your Universal Orlando adventure during the festive season. Its unparalleled location means you're just a short walk from the thrilling rides of Universal Studios Florida and Islands of Adventure, as well as the vibrant nightlife and diverse culinary scene of Universal CityWalk. Guests enjoy the invaluable Unlimited Universal Express Pass, allowing you to skip the regular lines at most attractions \u2013 a crucial benefit during the busy Christmas and New Year's week. With its lively atmosphere, fantastic dining options, and an impressive pool featuring underwater music, the Hard Rock Hotel is the ultimate choice for travelers seeking adventure, non-stop entertainment, and delicious food right at their fingertips."
+    },
+    "attractions": [
+        {
+            "name": "Universal Studios Florida",
+            "type": "Theme Park",
+            "duration": "Full Day (8-10 hours)",
+            "cost": "Varies (approx. $109-$180+ for 1-day, multi-day tickets recommended)",
+            "bestTime": "Early morning upon opening, weekdays for fewer crowds"
+        },
+        {
+            "name": "Universal's Islands of Adventure",
+            "type": "Theme Park",
+            "duration": "Full Day (8-10 hours)",
+            "cost": "Varies (approx. $109-$180+ for 1-day, multi-day tickets recommended)",
+            "bestTime": "Early morning upon opening, especially for popular rides like Hagrid's Magical Creatures Motorbike Adventure"
+        },
+        {
+            "name": "Universal CityWalk Orlando",
+            "type": "Entertainment District",
+            "duration": "Evening (3-5 hours)",
+            "cost": "Free entry (parking fees apply unless staying at a Universal hotel or with valid park ticket)",
+            "bestTime": "Evenings, especially after the theme parks close, for dining, bars, and live entertainment"
+        },
+        {
+            "name": "Universal's Volcano Bay",
+            "type": "Water Theme Park",
+            "duration": "Half to Full Day (5-8 hours)",
+            "cost": "Varies (approx. $80-$100+ for 1-day, often included in multi-park tickets)",
+            "bestTime": "Morning upon opening, especially during warmer months, to enjoy slides before crowds build"
+        },
+        {
+            "name": "Kennedy Space Center Visitor Complex",
+            "type": "Landmark / Museum",
+            "duration": "Full Day (6-8 hours)",
+            "cost": "Approx. $75-$80 per adult",
+            "bestTime": "Morning upon opening, to allow ample time for all exhibits and tours"
+        },
+        {
+            "name": "ICON Park Orlando",
+            "type": "Entertainment Complex",
+            "duration": "Evening (3-4 hours)",
+            "cost": "Varies per attraction (e.g., The Wheel approx. $30, combo tickets available), parking extra",
+            "bestTime": "Evenings for a vibrant atmosphere, Ferris wheel views, dining, and other attractions"
+        },
+        {
+            "name": "Boggy Creek Airboat Adventures",
+            "type": "Nature / Adventure Tour (Hidden Gem)",
+            "duration": "2-3 hours (including travel from Universal)",
+            "cost": "Approx. $30-$60 per person depending on tour length",
+            "bestTime": "Morning or late afternoon for cooler temperatures and better wildlife viewing"
+        },
+        {
+            "name": "Disney Springs",
+            "type": "Entertainment District",
+            "duration": "Evening (3-5 hours)",
+            "cost": "Free entry (free parking)",
+            "bestTime": "Evenings for diverse dining, unique shops, and live entertainment, without needing a theme park ticket"
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "In-N-Out Burger",
+            "cuisine": "American Fast Food",
+            "specialty": "Freshly made burgers, fries, and shakes using high-quality ingredients, a true Southern California icon.",
+            "priceRange": "$",
+            "mustTry": [
+                "Double-Double Animal Style",
+                "Animal Style Fries",
+                "Neapolitan Shake"
+            ]
+        },
+        {
+            "name": "Grand Central Market",
+            "cuisine": "Eclectic Food Hall",
+            "specialty": "A historic and vibrant marketplace featuring a diverse array of food vendors offering cuisines from around the world.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Eggslut (Fairfax sandwich)",
+                "Villa Moreliana (Carnitas Tacos)",
+                "Sari Sari Store (Filipino Rice Bowls)",
+                "Wexler's Deli (Pastrami Sandwich)"
+            ]
+        },
+        {
+            "name": "Kang Ho Dong Baekjeong (Koreatown)",
+            "cuisine": "Korean BBQ",
+            "specialty": "Authentic, high-quality Korean BBQ experience with premium cuts of meat grilled at your table in a lively, social atmosphere.",
+            "priceRange": "$$$",
+            "mustTry": [
+                "Beef Combo (Chadolbagi, Kkot Sal, Galbi)",
+                "Pork Combo (Samgyupsal, Moksal, Gochujang Samgyupsal)",
+                "Kimchi Stew"
+            ]
+        },
+        {
+            "name": "Pink's Hot Dogs",
+            "cuisine": "American Hot Dogs",
+            "specialty": "An iconic Hollywood institution famous for its gourmet hot dogs with unique and creative toppings, often drawing a crowd.",
+            "priceRange": "$",
+            "mustTry": [
+                "Chili Cheese Dog",
+                "Hollywood Legend Dog (Pastrami, Swiss, Mustard)",
+                "Lord of the 'Rings' Dog (BBQ Sauce, Onion Rings)"
+            ]
+        },
+        {
+            "name": "VIVO Italian Kitchen (Universal CityWalk)",
+            "cuisine": "Italian",
+            "specialty": "Modern Italian dishes featuring fresh, handmade pasta and authentic wood-fired pizzas, perfect for a pre- or post-park meal.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Spaghetti Carbonara",
+                "Margherita Pizza",
+                "Tiramisu"
+            ]
+        },
+        {
+            "name": "Daikokuya Ramen (Little Tokyo)",
+            "cuisine": "Japanese Ramen",
+            "specialty": "Consistently praised for its rich, flavorful Tonkotsu broth and classic ramen dishes, a beloved local spot.",
+            "priceRange": "$$",
+            "mustTry": [
+                "Daikokuya Ramen (Classic Tonkotsu)",
+                "Gyoza",
+                "Chashu Bowl"
+            ]
+        },
+        {
+            "name": "Famous Los Angeles Local Dishes & Foods",
+            "cuisine": "Various",
+            "specialty": "Iconic and beloved foods that define the diverse culinary scene of Los Angeles.",
+            "priceRange": "$ - $$$",
+            "mustTry": [
+                "Animal Style Burger & Fries (from In-N-Out Burger)",
+                "Korean BBQ (interactive grilled meats)",
+                "Street Tacos (especially Al Pastor and Carne Asada from a local truck)",
+                "French Dip Sandwich (original to LA, try at Philippe's or Cole's)",
+                "Gourmet Hot Dogs (like those from Pink's Hot Dogs)",
+                "Tonkotsu Ramen (rich pork broth ramen)"
+            ]
+        }
+    ],
+    "activities": [
+        {
+            "day": 1,
+            "morning": "Arrive early at Universal Studios Florida. Focus on The Wizarding World of Harry Potter - Diagon Alley, experiencing Harry Potter and the Escape from Gringotts. Explore Production Central with Despicable Me Minion Mayhem and TRANSFORMERS: The Ride 3D.",
+            "afternoon": "Continue exploring Universal Studios Florida. Head to Hollywood Rip Ride Rockit, Revenge of the Mummy, Men in Black Alien Attack, and The Simpsons Ride. Enjoy shows like Universal's Horror Make-Up Show.",
+            "evening": "Enjoy dinner and explore the vibrant atmosphere of Universal CityWalk Orlando. Afterwards, perhaps catch a movie or enjoy live music.\nDinner recommendation: VIVO Italian Kitchen (Universal CityWalk) - Modern Italian dishes with fresh, handmade pasta and wood-fired pizzas."
+        },
+        {
+            "day": 2,
+            "morning": "Head to Universal's Islands of Adventure right at opening. Prioritize The Wizarding World of Harry Potter - Hogsmeade for Hagrid's Magical Creatures Motorbike Adventure (use the Virtual Line if available) and Harry Potter and the Forbidden Journey. Afterwards, brave Jurassic Park River Adventure.",
+            "afternoon": "Explore Marvel Super Hero Island, riding The Incredible Hulk Coaster and The Amazing Adventures of Spider-Man. Continue to Toon Lagoon for Popeye & Bluto's Bilge-Rat Barges (prepare to get wet!).",
+            "evening": "Enjoy dinner at a themed restaurant within Islands of Adventure (e.g., Mythos Restaurant or Three Broomsticks) or choose another option at Universal CityWalk for variety.\nDinner recommendation: Mythos Restaurant (Islands of Adventure) - Critically acclaimed Mediterranean-inspired cuisine in a mythical setting."
+        },
+        {
+            "day": 3,
+            "morning": "Begin with an early morning drive to Kennedy Space Center Visitor Complex (approx. 1-hour drive). Upon arrival, explore the Rocket Garden, Heroes & Legends featuring the U.S. Astronaut Hall of Fame, and the Space Shuttle Atlantis exhibit.",
+            "afternoon": "Take the KSC Bus Tour to the Apollo/Saturn V Center, where you can walk under a massive Saturn V moon rocket. Catch an IMAX film and, if time permits, meet a veteran astronaut.",
+            "evening": "Drive back to Orlando. After a full day of space exploration, enjoy a relaxed dinner near your accommodation or a casual meal at CityWalk.\nDinner recommendation: Casual dining near Universal or at your hotel for a relaxed evening after the day trip."
+        },
+        {
+            "day": 4,
+            "morning": "Start your day at Universal's Volcano Bay. Arrive upon opening to experience the most popular slides like Krakatau Aqua Coaster and Ko'okiri Body Plunge using the TapuTapu virtual line system. Relax on Waturi Beach.",
+            "afternoon": "Continue to enjoy Volcano Bay's numerous slides, lazy rivers (TeAwa The Fearless River), and leisure pools. Find a shaded spot to unwind or grab a quick bite at one of the park's eateries.",
+            "evening": "Return to your hotel to freshen up. For dinner, explore the diverse culinary scene at Universal CityWalk or a themed restaurant within the Universal area.\nDinner recommendation: A themed restaurant at CityWalk offering a different cuisine like Bigfire (grilled American fare) or The Toothsome Chocolate Emporium & Savory Feast Kitchen."
+        },
+        {
+            "day": 5,
+            "morning": "Embark on a unique Florida adventure at Boggy Creek Airboat Adventures. Drive south of Orlando (approx. 30-45 min) for a thrilling airboat ride through the wetlands, spotting alligators and other native wildlife.",
+            "afternoon": "Return to the Universal area. Enjoy some leisure time, perhaps relaxing by the hotel pool, or doing some souvenir shopping at Universal CityWalk.",
+            "evening": "Head to ICON Park Orlando. Enjoy a ride on The Wheel for panoramic views of Orlando, visit Madame Tussauds Orlando, or explore Sea Life Orlando Aquarium. Have dinner at one of ICON Park's many restaurants.\nDinner recommendation: Choose from a variety of dining options at ICON Park, such as Sugar Factory for sweet treats and American fare, or Ole Red for live music and Southern comfort food."
+        },
+        {
+            "day": 6,
+            "morning": "Enjoy a more relaxed start. Revisit your favorite park (Universal Studios Florida or Islands of Adventure) for a few hours to re-experience beloved rides, catch a show you missed, or explore areas more leisurely. Alternatively, enjoy resort amenities like mini-golf.",
+            "afternoon": "Spend the afternoon relaxing at your hotel, enjoying the pool, or doing some last-minute shopping at the Universal CityWalk stores.",
+            "evening": "Explore Disney Springs for an evening of unique shopping, diverse dining, and live entertainment in a beautifully themed outdoor complex (free entry and parking).\nDinner recommendation: Indulge in a diverse culinary experience at Disney Springs, with options like The BOATHOUSE (upscale seafood), Morimoto Asia (Pan-Asian cuisine), or Raglan Road Irish Pub (authentic Irish food and entertainment)."
+        },
+        {
+            "day": 7,
+            "morning": "Enjoy a leisurely breakfast at your hotel or a cafe at Universal CityWalk. Depending on your flight schedule, you might have time for some final souvenir shopping or a relaxing stroll before heading to the airport.",
+            "afternoon": "Check out from your hotel and head to Orlando International Airport (MCO) for your departure.",
+            "evening": "Travel home, cherishing memories of your Universal Orlando adventure."
+        }
+    ],
+    "localTips": [
+        "Florida's heat and sun are intense. Stay hydrated by drinking plenty of water, use refillable bottles, wear sunscreen, and seek shade frequently. A hat and sunglasses are essential.",
+        "Arrive at least 30-60 minutes before park opening (Rope Drop) to hit popular rides first. Download the Universal Orlando Resort app to check wait times, show schedules, and use Mobile Food & Drink Ordering.",
+        "You'll be walking miles. Absolutely prioritize comfortable, broken-in walking shoes to avoid blisters and ensure you can enjoy the entire day without discomfort.",
+        "Utilize the Single Rider Line for significantly shorter wait times on many popular attractions if you're comfortable splitting up from your group. It's a fantastic time-saver!",
+        "If staying off-site, factor in parking costs and travel time. Universal's garages are a walk to the parks. On-site resort guests enjoy free transportation via bus or water taxi, plus Early Park Admission.",
+        "Mobile payment (tap-to-pay) is widely available and convenient. Budget for snacks, drinks, and souvenirs, as prices can add up. Consider purchasing a refillable Freestyle Coke cup for value.",
+        "Embrace the crowds with patience and a flexible attitude. Lines happen, and shows have schedules. Staying positive and using the app to re-route your day will make it more enjoyable.",
+        "Universal Studios Florida and Islands of Adventure are two separate theme parks. If you want to ride the Hogwarts Express between them, you'll need a Park-to-Park ticket."
+    ]
+}

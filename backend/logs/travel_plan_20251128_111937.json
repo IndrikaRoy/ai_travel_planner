@@ -1,0 +1,305 @@
+{
+    "destination": "Tokyo",
+    "duration": 0,
+    "overview": {
+        "totalCost": "3500",
+        "travelers": 4,
+        "startDate": "2025-11-28",
+        "endDate": "2025-12-05"
+    },
+    "transportation": {
+        "destination": "Tokyo",
+        "dates": "2025-11-28 to 2025-12-05",
+        "travelers": 4,
+        "budget": 3500,
+        "recommendations": {
+            "flights": {
+                "notes": "Finding round-trip flights for 4 people to Tokyo within a $3500 budget (averaging $875 per person) for these peak dates will be challenging and will likely require booking far in advance, utilizing budget airlines, or accepting flights with layovers. Prices are highly estimated and subject to change.",
+                "outbound": {
+                    "date": "2025-11-28",
+                    "estimatedPricePerPerson": 450,
+                    "totalEstimatedPrice": 1800,
+                    "details": "Look for flights from major international hubs (e.g., LAX, SFO, JFK, ORD) to Tokyo Narita (NRT) or Haneda (HND). Consider airlines like ZIPAIR, JAL, ANA, United, Delta. Budget airlines or flights with a single layover may be necessary to meet the budget. Prices for late November/early December can be higher due to holiday season approaching."
+                },
+                "return": {
+                    "date": "2025-12-05",
+                    "estimatedPricePerPerson": 425,
+                    "totalEstimatedPrice": 1700,
+                    "details": "Similar recommendations as outbound. Flexibility with exact return date or time of day could help secure better fares. Act quickly as flight prices tend to increase closer to the departure date."
+                }
+            },
+            "carRental": {
+                "notes": "Renting a car for travel within Tokyo is generally not recommended due to excellent public transportation, heavy traffic, expensive tolls, and costly parking. However, it can be a good option for day trips outside the city (e.g., Hakone, Mount Fuji area) for a group of 4.",
+                "type": "Compact SUV or Minivan (e.g., Toyota Sienta, Honda Freed)",
+                "dailyRateEstimated": 80,
+                "recommendedCompany": "Toyota Rent-a-Car, Nippon Rent-A-Car, Orix Rent-A-Car",
+                "details": "For a group of 4, a compact SUV offers comfort and luggage space. A minivan provides more room if you plan on longer drives. Ensure international driving permits are acquired before arrival. Daily rates are estimates and can vary based on rental duration, insurance, and specific vehicle model. Consider renting only for 1-2 days for specific excursions rather than the entire trip to save costs and avoid urban driving hassles."
+            },
+            "localTransportation": {
+                "publicTransit": {
+                    "notes": "Tokyo's public transportation system is world-class, efficient, extensive, and the most recommended way to get around the city.",
+                    "options": [
+                        {
+                            "name": "Japan Rail (JR) Lines",
+                            "details": "Covers major city loops (Yamanote Line) and connects to other regions. Important for reaching popular areas like Shibuya, Shinjuku, Ueno. Consider purchasing a Suica or Pasmo IC card for seamless travel across various train and subway lines."
+                        },
+                        {
+                            "name": "Tokyo Metro & Toei Subway Lines",
+                            "details": "Extensive network covering virtually every part of the city. Essential for reaching destinations not covered by JR. Purchase a 24/48/72-hour subway pass for unlimited rides if you plan on extensive subway use, otherwise, IC cards are best."
+                        },
+                        {
+                            "name": "IC Cards (Suica/Pasmo)",
+                            "details": "Rechargeable smart cards that can be used on almost all trains, subways, and buses, as well as for purchases at convenience stores and vending machines. Highly recommended for convenience. Can be purchased at most station ticket machines."
+                        },
+                        {
+                            "name": "Buses",
+                            "details": "Useful for shorter distances or reaching areas not directly served by trains/subways. IC cards are accepted."
+                        }
+                    ],
+                    "estimatedDailyCostPerPerson": 8
+                },
+                "rideSharing": {
+                    "notes": "Ride-sharing services are available but significantly more expensive than public transit and can be subject to traffic delays.",
+                    "companies": [
+                        {
+                            "name": "Uber",
+                            "details": "Available in Tokyo. Can be useful for late-night travel when trains stop running (around midnight) or for convenience with luggage. Expect higher fares than public transit."
+                        },
+                        {
+                            "name": "DiDi",
+                            "details": "Another ride-sharing option operating in Tokyo, offering similar services to Uber."
+                        }
+                    ],
+                    "estimatedCostPerRide": "Starts from \u00a51000 (approx. $7) for short trips, increasing significantly for longer distances."
+                }
+            }
+        }
+    },
+    "accommodation": [
+        {
+            "hotel": "Keio Plaza Hotel Tokyo",
+            "location": "Shinjuku",
+            "pricePerNight": 480,
+            "amenities": [
+                "Multiple Restaurants & Bars",
+                "Outdoor Pool (seasonal)",
+                "Fitness Center",
+                "Concierge Service",
+                "Free Wi-Fi",
+                "Airport Limousine Bus Stop"
+            ],
+            "description": "A well-established and grand hotel in West Shinjuku, perfect for groups seeking vibrant nightlife, diverse food options, and excellent transport links for adventure. It offers spacious rooms suitable for families/groups, extensive dining, and easy access to Shinjuku Gyoen National Garden, Tokyo Metropolitan Government Building, and the bustling entertainment district.",
+            "link": "https://www.keioplaza.com/tokyo/"
+        },
+        {
+            "hotel": "Shibuya Excel Hotel Tokyu",
+            "location": "Shibuya",
+            "pricePerNight": 520,
+            "amenities": [
+                "Restaurants with City Views",
+                "Direct Access to Shibuya Station",
+                "Concierge Service",
+                "Free Wi-Fi",
+                "Currency Exchange"
+            ],
+            "description": "Boasting an unbeatable location directly above Shibuya Scramble Crossing, this hotel is ideal for those craving immersive food experiences, trendy nightlife, and non-stop energy. Rooms offer stunning views of the iconic crossing, placing you right at the heart of Tokyo's youth culture and fashion scene, with excellent transport for exploring further.",
+            "link": "https://www.tokyuhotels.co.jp/shibuya-e/"
+        },
+        {
+            "hotel": "Park Hotel Tokyo",
+            "location": "Shiodome (near Ginza)",
+            "pricePerNight": 550,
+            "amenities": [
+                "Art-themed Rooms",
+                "Restaurants & Bars",
+                "Fitness Room",
+                "Concierge Service",
+                "Free Wi-Fi",
+                "Sky Lobby with Panoramic Views"
+            ],
+            "description": "An art-inspired hotel located in the modern Shiodome area, offering breathtaking city views from every room. It's a short walk to Ginza's upscale dining and shopping, and well-connected to public transport for exploring other districts for food and adventure. The elegant atmosphere provides a sophisticated base while still being close to lively nightlife options.",
+            "link": "https://www.parkhoteltokyo.com/"
+        },
+        {
+            "hotel": "Hotel Gracery Shinjuku",
+            "location": "Kabukicho, Shinjuku",
+            "pricePerNight": 450,
+            "amenities": [
+                "Godzilla Head Terrace",
+                "Restaurant",
+                "Convenience Store (onsite)",
+                "Free Wi-Fi",
+                "Laundry Facilities"
+            ],
+            "description": "Famous for its iconic Godzilla head overlooking Kabukicho, this modern hotel is perfectly situated for travelers eager to dive into Shinjuku's most vibrant nightlife, diverse dining, and entertainment. It offers comfortable quad rooms suitable for groups and immediate access to the energetic district, making it an adventurous and convenient choice.",
+            "link": "https://gracery.com/shinjuku/"
+        },
+        {
+            "hotel": "Hotel Ryumeikan Tokyo",
+            "location": "Tokyo Station (Yaesu)",
+            "pricePerNight": 500,
+            "amenities": [
+                "Modern Japanese Design",
+                "Restaurant (with excellent breakfast)",
+                "Concierge Service",
+                "Free Wi-Fi",
+                "Air Purifiers in Rooms"
+            ],
+            "description": "Located just steps from Tokyo Station, this refined hotel offers unparalleled connectivity for all your Tokyo adventures and day trips. It combines contemporary comforts with a touch of traditional Japanese hospitality. Its central location is ideal for food enthusiasts and provides easy access to various districts for both sophisticated dining and lively nightlife.",
+            "link": "https://www.ryumeikan-tokyo.jp/en/"
+        }
+    ],
+    "attractions": [
+        {
+            "name": "Shibuya Crossing & Hachiko Statue",
+            "type": "Landmark/Urban Experience",
+            "duration": "1-2 hours",
+            "cost": "Free",
+            "bestTime": "Evening for the full vibrant experience, or during the day for people-watching."
+        },
+        {
+            "name": "Tsukiji Outer Market",
+            "type": "Market/Food District",
+            "duration": "2-3 hours",
+            "cost": "Free entry, food purchases vary (expect \u00a51000-5000 for a good meal/snacks)",
+            "bestTime": "Morning (before noon) for the freshest food and lively atmosphere."
+        },
+        {
+            "name": "Shinjuku Golden Gai & Kabukicho",
+            "type": "Entertainment District/Nightlife",
+            "duration": "3-5 hours",
+            "cost": "Varies significantly (drink prices from \u00a5800-\u00a51500 per drink, some bars have cover charges \u00a5500-\u00a51500)",
+            "bestTime": "Night, typically from 8 PM onwards."
+        },
+        {
+            "name": "Mount Takao (Takaosan)",
+            "type": "Mountain/Nature Park",
+            "duration": "Full day (5-8 hours including travel)",
+            "cost": "Cable car/Chair lift round trip \u00a5950. Hiking trails free.",
+            "bestTime": "Daytime, especially weekdays in spring or autumn for comfortable hiking and views."
+        },
+        {
+            "name": "Tokyo Skytree",
+            "type": "Landmark/Observation Deck",
+            "duration": "1.5-2 hours",
+            "cost": "\u00a52100 for Tembo Deck (350m), additional \u00a51000 for Tembo Galleria (450m)",
+            "bestTime": "Late afternoon to early evening for both daylight and night views."
+        },
+        {
+            "name": "Robot Restaurant",
+            "type": "Entertainment Venue/Show",
+            "duration": "1.5-2 hours (show time, plus pre-show lounge)",
+            "cost": "\u00a58000-\u00a510000 (often cheaper if booked online in advance)",
+            "bestTime": "Evening (multiple shows per night)."
+        },
+        {
+            "name": "Yanaka Ginza Shopping Street",
+            "type": "Shopping Street/Cultural Experience",
+            "duration": "2-3 hours",
+            "cost": "Free entry, food/souvenir purchases vary (expect \u00a5500-\u00a52000 for snacks/small items)",
+            "bestTime": "Daytime, especially afternoon for a relaxed stroll and snacks."
+        },
+        {
+            "name": "Ueno Park",
+            "type": "Park/Cultural Complex",
+            "duration": "3-5 hours (depending on visited attractions like museums/zoo)",
+            "cost": "Free entry to park. Museum/Zoo tickets ~\u00a5600-\u00a51000 each.",
+            "bestTime": "Daytime, particularly pleasant in the morning or early afternoon. Spring for cherry blossoms."
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Ichiran Ramen Shinjuku Kabukicho",
+            "cuisine": "Ramen",
+            "specialty": "Classic Tonkotsu Ramen with a unique, customizable 'flavor concentration booth' dining experience. Famous for its rich, creamy broth.",
+            "priceRange": "$",
+            "mustTry": "Classic Tonkotsu Ramen with soft-boiled egg and extra green onions. You can customize your ramen's richness, noodle texture, and spice level.",
+            "link": "https://maps.app.goo.gl/uXv7o1JpW3b88WjT8"
+        },
+        {
+            "name": "Uobei Shibuya Dogenzaka",
+            "cuisine": "Sushi (Kaiten Sushi)",
+            "specialty": "A lively and modern kaiten (conveyor belt) sushi restaurant where orders are placed via touch screen and delivered directly to your seat by mini bullet trains. Excellent value and a fun, interactive experience.",
+            "priceRange": "$",
+            "mustTry": "Assorted Nigiri, Salmon, Tuna, Ebi Fry Roll. Don't be afraid to try different and unique options from the menu!",
+            "link": "https://maps.app.goo.gl/3547j81V13Kcn15f9"
+        },
+        {
+            "name": "Gonpachi Nishi-Azabu",
+            "cuisine": "Izakaya, Japanese",
+            "specialty": "Famous for its lively, rustic atmosphere said to have inspired a scene in 'Kill Bill'. Offers a wide range of traditional Japanese dishes including yakitori, tempura, and soba.",
+            "priceRange": "$$",
+            "mustTry": "Assorted Yakitori Skewers, Tempura Platter, Sashimi Assortment. Enjoy with sake or Japanese beer.",
+            "link": "https://gonpachi.jp/nishi-azabu/"
+        },
+        {
+            "name": "Andy's Shin Hinomoto",
+            "cuisine": "Izakaya, Seafood",
+            "specialty": "A beloved, bustling izakaya run by a British owner, located under the train tracks in Yurakucho. Known for its incredibly fresh seafood and welcoming, vibrant atmosphere.",
+            "priceRange": "$$",
+            "mustTry": "Daily fresh fish (ask Andy for the catch of the day, served as sashimi or grilled), Gyoza, Grilled Mackerel. Best experienced with a cold beer or sake.",
+            "link": "https://maps.app.goo.gl/m39nQ5p7Xf3Q6W4R7"
+        },
+        {
+            "name": "Sometaro",
+            "cuisine": "Okonomiyaki, Monjayaki",
+            "specialty": "A traditional, rustic restaurant in Asakusa, offering an authentic and fun DIY experience where you cook your own Okonomiyaki and Monjayaki at the table.",
+            "priceRange": "$",
+            "mustTry": "Pork and Egg Okonomiyaki, Mentaiko Mochi Cheese Monjayaki. It's a delightful, interactive culinary adventure unique to Tokyo.",
+            "link": "https://maps.app.goo.gl/oXzPqJ5jA47Q845g8"
+        }
+    ],
+    "activities": [
+        {
+            "day": 1,
+            "morning": "Arrive in Tokyo, check into accommodation, and settle in. Take some time to relax and acclimate to the local time.",
+            "afternoon": "Leisurely exploration of your local neighborhood or some light shopping.",
+            "evening": "Experience the iconic Shibuya Crossing, watch the hustle and bustle, and visit the Hachiko Statue. Dinner recommendation: Uobei Shibuya Dogenzaka (Sushi, Shibuya) for a fun and value-for-money conveyor belt sushi experience."
+        },
+        {
+            "day": 2,
+            "morning": "Immerse yourself in traditional Tokyo with a visit to Asakusa. Explore Senso-ji Temple, stroll along Nakamise-dori shopping street, and absorb the historical atmosphere (allow 3-4 hours including travel).",
+            "afternoon": "Head to the Tokyo Skytree. Ascend to the observation decks for panoramic views of the city, especially beautiful in the late afternoon as the sun begins to set (allow 1.5-2 hours plus travel).",
+            "evening": "Dinner recommendation: Sometaro (Okonomiyaki, Asakusa) for a unique and interactive DIY Okonomiyaki and Monjayaki cooking experience at your table."
+        },
+        {
+            "day": 3,
+            "morning": "Explore the modern side of Shinjuku. You can visit Shinjuku Gyoen National Garden for a tranquil escape, or browse the department stores and electronics shops.",
+            "afternoon": "Continue exploring Shinjuku, perhaps a bit of shopping or relaxing before the evening's entertainment.",
+            "evening": "Experience the eccentric Robot Restaurant show (book tickets in advance for your preferred show time, allow 1.5-2 hours for the show plus pre-show lounge). Afterwards, dive into the vibrant nightlife of Shinjuku Golden Gai & Kabukicho. Dinner recommendation: Ichiran Ramen Shinjuku Kabukicho (Ramen, Shinjuku) for a classic, customizable tonkotsu ramen in a unique 'flavor concentration booth' setting."
+        },
+        {
+            "day": 4,
+            "morning": "Embark on a full-day trip to Mount Takao (Takaosan). Take a scenic train ride (approx. 1 hour from Shinjuku), then choose between hiking trails or the cable car/chair lift to reach the summit. Enjoy the natural beauty, temples, and stunning views of Tokyo.",
+            "afternoon": "Continue exploring Mount Takao, perhaps visiting the Monkey Park or the various shrines and lookout points. Allow ample time for hiking and enjoying nature (total 5-8 hours including travel).",
+            "evening": "Return to central Tokyo after a day in nature. Dinner recommendation: Gonpachi Nishi-Azabu (Izakaya, Nishi-Azabu), famous for its lively atmosphere and delicious Japanese izakaya dishes (said to have inspired a scene in 'Kill Bill')."
+        },
+        {
+            "day": 5,
+            "morning": "Start your day early at Tsukiji Outer Market. Explore the bustling market stalls, sample fresh seafood, and enjoy a delicious breakfast or brunch from the many vendors (allow 2-3 hours, best before noon).",
+            "afternoon": "Head north to Ueno Park, a vast cultural complex. Visit one of its renowned museums (e.g., Tokyo National Museum) or Ueno Zoo. Later, take a charming stroll down Yanaka Ginza Shopping Street for a taste of old Tokyo and local snacks (allow 4-5 hours for Ueno/Yanaka combined).",
+            "evening": "Enjoy a local izakaya or restaurant in the Ueno/Yanaka area, savoring traditional Japanese cuisine in a relaxed setting."
+        },
+        {
+            "day": 6,
+            "morning": "Explore the vibrant youth culture of Harajuku (Meiji Jingu Shrine and Takeshita Street).",
+            "afternoon": "Head to Ginza for some upscale shopping and people-watching, or explore Akihabara for electronics, anime, and manga culture.",
+            "evening": "Dinner recommendation: Andy's Shin Hinomoto (Izakaya, Seafood, Yurakucho). This bustling izakaya under the train tracks is famous for its incredibly fresh seafood and lively atmosphere, run by a friendly British owner."
+        },
+        {
+            "day": 7,
+            "morning": "Enjoy a final Tokyo breakfast. Depending on your flight schedule, you might have time for some last-minute souvenir shopping or a visit to a favorite spot.",
+            "afternoon": "Head to Narita (NRT) or Haneda (HND) Airport for your departure, reflecting on a memorable trip to Tokyo.",
+            "evening": "Departure from Tokyo."
+        }
+    ],
+    "localTips": [
+        "Always queue patiently, speak softly on public transport, and refrain from eating/drinking on trains. Get an IC card (Suica/Pasmo) for seamless travel on subways and JR lines, and use Google Maps for navigation.",
+        "Cash is still king in many places; always carry yen and utilize ATMs at 7-Eleven, FamilyMart, or Lawson convenience stores, which are ubiquitous and reliable.",
+        "Learn essential phrases like 'Arigato gozaimasu' (Thank you) and 'Sumimasen' (Excuse me/Sorry). While many signs are in English, a translation app will enhance your experience.",
+        "Visit popular attractions early mornings or on weekdays to avoid peak crowds. The shoulder seasons (late May/early June, October) offer pleasant weather with fewer tourists than the cherry blossom or autumn foliage peaks.",
+        "Tokyo is remarkably safe, but be mindful in crowded nightlife districts. Embrace convenience stores (konbini) like 7-Eleven or FamilyMart for ATMs, quick meals, drinks, and clean restrooms.",
+        "Pack comfortable walking shoes, a portable Wi-Fi device/eSIM, and a universal adapter (Japan uses Type A/B, 100V). Layers are advisable due to varying indoor/outdoor temperatures.",
+        "Tipping is not customary in Japan and can be considered impolite. Also, remember to remove your shoes when entering homes, traditional restaurants, temples, and certain changing rooms."
+    ]
+}
